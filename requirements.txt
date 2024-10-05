@@ -1,0 +1,7 @@
+dash
+pandas
+plotly
+warnings
+datetime
+logging
+dash_bootstrap_components
