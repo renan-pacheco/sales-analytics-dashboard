@@ -1,0 +1,1238 @@
+Status de Pagamento,Dia,Mês,Meio de Propaganda,Valor Pago,Chamadas Realizadas,Duração da chamada,Modelo de Treinamento,Nivel de Treinamento,Código de Área,Equipe,Consultor
+1,1,4,Televisão,7000000,3,0:02:00,GK,KJI. L4,A7,Equipe 1,Arthur
+1,10,8,Televisão,11000000,1,0:02:00,GK,Pre. L8,B13,Equipe 2,Heitor
+1,20,9,Website,12000000,3,0:02:00,GK,Fndn. L5,A1,Equipe 2,Helena
+1,23,9,Facebook,15000000,1,0:02:00,GK,Fndn. L5,A2,Equipe 3,Alice
+1,11,9,Televisão,25000000,2,0:02:00,GK,Fndn. L3,B13,Equipe 4,Theo
+1,2,10,WhatsApp,12000000,1,0:02:00,GK,Fndn. L1,A4,Equipe 1,Davi
+1,6,10,WhatsApp,20000000,2,0:02:00,GK,KJI. L4,B12,Equipe 4,Theo
+1,26,11,Facebook,19000000,2,0:02:00,BE,Pre. L2,A2,Equipe 1,Davi
+1,15,11,WhatsApp,38000000,2,0:02:00,BE,Fndn. L1,B18,Equipe 2,Heitor
+1,17,11,Google Ad,12000000,2,0:02:00,GK,Fndn. L6,C8,Equipe 2,Laura
+1,1,4,Televisão,7000000,3,0:02:00,GK,KJI. L4,A7,Equipe 1,Arthur
+1,2,10,WhatsApp,12000000,1,0:02:00,GK,Fndn. L1,A4,Equipe 1,Heitor
+1,6,10,WhatsApp,20000000,2,0:02:00,GK,KJI. L4,B12,Equipe 4,Lorenzo
+1,26,11,Facebook,19000000,2,0:02:00,BE,Pre. L2,A2,Equipe 1,Sophia
+1,2,10,WhatsApp,12000000,1,0:02:00,GK,Fndn. L1,A4,Equipe 1,Helena
+1,6,10,WhatsApp,20000000,2,0:02:00,GK,KJI. L4,B12,Equipe 4,Lorenzo
+1,26,11,Facebook,19000000,2,0:02:00,BE,Pre. L2,A2,Equipe 1,Sophia
+1,12,1,Televisão,11000000,1,0:02:00,GK,Pre. L3,C8,Equipe 2,Laura
+1,11,2,Website,25000000,1,0:02:00,GK,Fndn. L5,B12,Equipe 2,Helena
+1,11,3,Facebook,38000000,2,0:02:00,BE,Pre. L3,B12,Equipe 1,Lorenzo
+1,3,4,WhatsApp,15000000,1,0:02:00,GK,Pre. L3,A7,Equipe 1,Davi
+1,11,5,Televisão,19000000,1,0:02:00,BE,KJI. L4,B13,Equipe 3,Sophia
+1,10,5,WhatsApp,20000000,3,0:02:00,GK,Pre. L2,A2,Equipe 3,Sophia
+1,5,5,WhatsApp,7000000,2,0:02:00,GK,Pre. L3,B18,Equipe 2,Laura
+1,12,6,Website,38000000,3,0:02:00,BE,Fndn. L1,A4,Equipe 1,Lorenzo
+1,26,8,Televisão,20000000,3,0:02:00,CNI,KJI. L4,A7,Equipe 4,Theo
+1,25,9,Televisão,15000000,3,0:02:00,GK,Pre. L3,A1,Equipe 2,Laura
+1,11,9,Televisão,12000000,4,0:02:00,GK,Pre. L8,A7,Equipe 4,Theo
+1,18,9,Televisão,15000000,2,0:02:00,GK,Fndn. L1,B18,Equipe 1,Lorena
+1,1,10,Facebook,15000000,3,0:02:00,GK,Fndn. L1,A1,Equipe 2,Laura
+1,1,10,Televisão,12000000,6,0:02:00,GK,Fndn. L1,A1,Equipe 1,Davi
+1,8,10,Televisão,15000000,3,0:02:00,GK,Fndn. L3,A7,Equipe 1,Lorena
+1,20,10,Website,25000000,4,0:02:00,GK,Fndn. L3,A1,Equipe 1,Lucas
+1,20,10,Google Ad,12000000,4,0:02:00,GK,Pre. L4,A2,Equipe 3,João
+1,1,10,Website,15000000,5,0:02:00,GK,Fndn. L5,A4,Equipe 3,Sophia
+1,20,10,Website,10000000,1,0:02:00,GK,Pre. L4,B12,Equipe 1,Samuel
+1,1,10,Website,12000000,2,0:02:00,GK,Fndn. L3,B13,Equipe 1,Lorenzo
+1,4,10,Televisão,11000000,6,0:02:00,GK,Fndn. L1,B18,Equipe 2,Helena
+1,3,11,Facebook,19000000,3,0:02:00,BE,Pre. L4,B18,Equipe 1,Lorenzo
+1,22,11,Facebook,19000000,1,0:02:00,BE,Pre. L8,C8,Equipe 4,Bernardo
+1,13,11,Google Ad,20000000,3,0:02:00,CNI,KJI. L4,A1,Equipe 3,Sophia
+1,17,11,Google Ad,7000000,1,0:02:00,GK,KJI. L4,A2,Equipe 1,Lorenzo
+1,30,11,Google Ad,10000000,1,0:02:00,GK,Fndn. L5,A2,Equipe 3,João
+1,29,11,Facebook,15000000,1,0:02:00,GK,KJI. L4,B13,Equipe 2,Heitor
+1,6,11,Google Ad,7000000,3,0:02:00,GK,Pre. L4,C8,Equipe 4,Bernardo
+1,22,12,Website,25000000,6,0:02:00,GK,Pre. L3,B12,Equipe 4,Theo
+1,3,12,Facebook,20000000,4,0:02:00,GK,Fndn. L1,C8,Equipe 2,Laura
+1,12,1,Televisão,11000000,1,0:02:00,GK,Pre. L3,C8,Equipe 2,Laura
+1,11,2,Website,25000000,1,0:02:00,GK,Fndn. L5,B12,Equipe 2,Helena
+1,11,3,Facebook,38000000,2,0:02:00,BE,Pre. L3,B12,Equipe 1,Lorenzo
+1,3,4,WhatsApp,15000000,1,0:02:00,GK,Pre. L3,A7,Equipe 1,Davi
+1,11,5,Televisão,19000000,1,0:02:00,BE,KJI. L4,B13,Equipe 3,Sophia
+1,10,5,WhatsApp,20000000,3,0:02:00,GK,Pre. L2,A2,Equipe 3,Sophia
+1,5,5,WhatsApp,7000000,2,0:02:00,GK,Pre. L3,B18,Equipe 2,Laura
+1,12,6,Website,38000000,3,0:02:00,BE,Fndn. L1,A4,Equipe 1,Lorenzo
+1,26,8,Televisão,20000000,3,0:02:00,CNI,KJI. L4,A7,Equipe 4,Theo
+0,11,3,Facebook,0,1,0:02:00,,,A1,Equipe 1,Lorena
+0,14,4,Televisão,0,5,0:02:00,,,A2,Equipe 2,Laura
+0,1,5,Televisão,0,1,0:02:00,,,A7,Equipe 3,Sophia
+0,12,6,Website,0,2,0:02:00,,,A2,Equipe 2,Heitor
+0,7,10,Google Ad,0,6,0:02:00,,,B12,Equipe 4,Bernardo
+0,5,10,Facebook,0,4,0:02:00,,,C8,Equipe 2,Heitor
+0,23,11,Televisão,0,3,0:02:00,,,A7,Equipe 4,Theo
+0,19,11,Facebook,0,1,0:02:00,,,B18,Equipe 1,Lucas
+0,10,12,Google Ad,0,1,0:02:00,,,B18,Equipe 1,Davi
+0,11,3,Facebook,0,1,0:02:00,,,A1,Equipe 1,Lorena
+0,14,4,Televisão,0,5,0:02:00,,,A2,Equipe 2,Laura
+0,1,5,Televisão,0,1,0:02:00,,,A7,Equipe 3,Sophia
+0,12,6,Website,0,2,0:02:00,,,A2,Equipe 2,Heitor
+1,1,5,Facebook,25000000,1,0:02:00,GK,Pre. L2,A1,Equipe 4,Bernardo
+1,12,6,Televisão,12000000,2,0:02:00,GK,KJI. L4,A1,Equipe 2,Heitor
+1,12,6,Televisão,15000000,5,0:02:00,GK,Fndn. L1,B18,Equipe 1,Lucas
+1,10,8,Televisão,12000000,4,0:02:00,GK,Fndn. L6,A2,Equipe 2,Helena
+1,23,9,Televisão,20000000,1,0:02:00,GK,Pre. L2,A1,Equipe 3,João
+1,8,9,Facebook,21000000,4,0:02:00,GK,KJI. L4,B12,Equipe 1,Samuel
+1,22,9,Televisão,15000000,3,0:02:00,GK,Fndn. L1,B12,Equipe 2,Helena
+1,30,9,Televisão,12000000,3,0:02:00,GK,Pre. L2,B18,Equipe 1,Lucas
+1,8,10,Televisão,20000000,3,0:02:00,GK,Pre. L4,B12,Equipe 3,Sophia
+1,30,10,WhatsApp,15000000,1,0:02:00,GK,KJI. L4,B13,Equipe 2,Heitor
+1,9,10,Website,15000000,3,0:02:00,GK,Fndn. L1,C8,Equipe 2,Mathias
+1,11,10,WhatsApp,15000000,2,0:02:00,GK,Pre. L3,C8,Equipe 2,Laura
+1,26,10,Televisão,7000000,2,0:02:00,GK,Pre. L4,C8,Equipe 1,Lorena
+1,22,11,Facebook,38000000,4,0:02:00,BE,Pre. L3,A2,Equipe 4,Bernardo
+1,3,11,Google Ad,19000000,1,0:02:00,BE,Fndn. L1,A7,Equipe 2,Helena
+1,8,11,Google Ad,38000000,1,0:02:00,BE,Fndn. L6,B13,Equipe 1,Arthur
+1,19,11,Website,12000000,1,0:02:00,GK,KJI. L4,A7,Equipe 4,Bernardo
+1,1,5,Facebook,25000000,1,0:02:00,GK,Pre. L2,A1,Equipe 4,Bernardo
+1,12,6,Televisão,12000000,2,0:02:00,GK,KJI. L4,A1,Equipe 2,Heitor
+1,12,6,Televisão,15000000,5,0:02:00,GK,Fndn. L1,B18,Equipe 1,Lucas
+1,10,8,Televisão,12000000,4,0:02:00,GK,Fndn. L6,A2,Equipe 2,Helena
+0,3,6,Website,0,2,0:02:00,,,B18,Equipe 2,Heitor
+0,13,8,Website,0,1,0:02:00,,,A2,Equipe 1,Arthur
+0,29,10,Website,0,4,0:02:00,,,A2,Equipe 3,João
+0,5,10,Website,0,5,0:02:00,,,B13,Equipe 2,Laura
+0,19,11,Google Ad,0,2,0:02:00,,,C8,Equipe 4,Bernardo
+0,18,12,Televisão,0,1,0:02:00,,,A1,Equipe 4,Theo
+0,29,12,Google Ad,0,1,0:02:00,,,A1,Equipe 1,Lorena
+0,1,12,Google Ad,0,2,0:02:00,,,B12,Equipe 1,Arthur
+0,30,12,Website,0,1,0:02:00,,,B18,Equipe 3,Sophia
+0,3,6,Website,0,2,0:02:00,,,B18,Equipe 2,Heitor
+1,11,1,Google Ad,20000000,2,0:02:00,CNI,Fndn. L3,A1,Equipe 4,Bernardo
+1,14,1,Google Ad,15000000,2,0:02:00,GK,Pre. L3,A1,Equipe 2,Laura
+1,11,2,Google Ad,10000000,1,0:02:00,GK,Fndn. L1,A2,Equipe 1,Lucas
+1,1,4,Website,25000000,1,0:02:00,GK,Fndn. L1,A4,Equipe 1,Davi
+1,1,7,Youtube,12000000,5,0:02:00,GK,Pre. L3,B18,Equipe 3,Sophia
+1,30,9,Televisão,12000000,1,0:02:00,GK,KJI. L4,A1,Equipe 4,Bernardo
+1,13,9,WhatsApp,12000000,1,0:02:00,GK,Pre. L2,B18,Equipe 1,Lorena
+1,1,9,Televisão,7000000,4,0:02:00,GK,Fndn. L3,C8,Equipe 1,Lorena
+1,21,10,Facebook,19000000,1,0:02:00,BE,Fndn. L1,A1,Equipe 1,Lucas
+1,3,10,Facebook,38000000,2,0:02:00,BE,KJI. L4,C8,Equipe 2,Helena
+1,8,10,Google Ad,20000000,2,0:02:00,CNI,Fndn. L1,A1,Equipe 2,Heitor
+1,14,10,Televisão,7000000,5,0:02:00,GK,Fndn. L3,B12,Equipe 4,Bernardo
+1,31,10,Website,15000000,3,0:02:00,GK,Fndn. L5,B13,Equipe 3,João
+1,20,10,Facebook,15000000,1,0:02:00,GK,Pre. L4,B18,Equipe 3,Sophia
+1,25,11,Televisão,38000000,1,0:02:00,BE,Pre. L2,A1,Equipe 1,Lorenzo
+1,5,11,Facebook,12000000,2,0:02:00,GK,Pre. L8,B12,Equipe 2,Laura
+1,16,11,Website,12000000,3,0:02:00,GK,KJI. L4,C8,Equipe 2,Heitor
+1,26,12,WhatsApp,25000000,5,0:02:00,GK,Pre. L4,A4,Equipe 3,Sophia
+1,11,1,Google Ad,20000000,2,0:02:00,CNI,Fndn. L3,A1,Equipe 4,Bernardo
+1,14,1,Google Ad,15000000,2,0:02:00,GK,Pre. L3,A1,Equipe 2,Laura
+1,11,2,Google Ad,10000000,1,0:02:00,GK,Fndn. L1,A2,Equipe 1,Lucas
+1,1,4,Website,25000000,1,0:02:00,GK,Fndn. L1,A4,Equipe 1,Davi
+1,1,7,Youtube,12000000,5,0:02:00,GK,Pre. L3,B18,Equipe 3,Sophia
+0,13,6,Televisão,0,3,0:02:00,,,B13,Equipe 2,Heitor
+0,15,9,WhatsApp,0,4,0:02:00,,,A7,Equipe 1,Samuel
+0,28,10,Facebook,0,3,0:02:00,,,A2,Equipe 2,Helena
+0,20,10,Televisão,0,2,0:02:00,,,A7,Equipe 1,Lorena
+0,14,10,Televisão,0,1,0:02:00,,,B18,Equipe 4,Bernardo
+0,13,11,Televisão,0,1,0:02:00,,,A2,Equipe 1,Davi
+0,15,11,Google Ad,0,4,0:02:00,,,A2,Equipe 3,Sophia
+0,26,11,Televisão,0,2,0:02:00,,,C8,Equipe 2,Helena
+0,13,6,Televisão,0,3,0:02:00,,,B13,Equipe 2,Heitor
+1,16,1,WhatsApp,25000000,1,0:02:00,GK,Pre. L2,B18,Equipe 2,Helena
+1,1,2,Facebook,7000000,2,0:02:00,GK,Pre. L8,A2,Equipe 2,Helena
+1,11,2,Facebook,12000000,2,0:02:00,GK,Pre. L8,A4,Equipe 1,Lucas
+1,11,2,Televisão,15000000,1,0:02:00,GK,Fndn. L1,B18,Equipe 4,Theo
+1,1,4,Televisão,19000000,1,0:02:00,BE,Fndn. L1,B12,Equipe 1,Samuel
+1,1,4,WhatsApp,20000000,3,0:02:00,CNI,Fndn. L1,B18,Equipe 4,Bernardo
+1,1,4,Televisão,15000000,1,0:02:00,GK,Pre. L3,C8,Equipe 3,Alice
+1,1,5,Televisão,20000000,4,0:02:00,CNI,Fndn. L1,B13,Equipe 1,Lorena
+1,4,5,Youtube,15000000,1,0:02:00,GK,Fndn. L3,B12,Equipe 2,Helena
+1,11,5,WhatsApp,25000000,4,0:02:00,GK,Fndn. L5,B12,Equipe 2,Laura
+1,12,7,WhatsApp,12000000,4,0:02:00,GK,Fndn. L3,B13,Equipe 3,Sophia
+1,31,8,Televisão,19000000,3,0:02:00,BE,Pre. L3,B13,Equipe 2,Laura
+1,2,8,Website,12000000,2,0:02:00,GK,Pre. L3,A1,Equipe 1,Samuel
+1,9,8,Televisão,12000000,5,0:02:00,GK,Pre. L4,A4,Equipe 2,Laura
+1,25,8,Facebook,10000000,4,0:02:00,GK,Pre. L4,A2,Equipe 2,Helena
+1,9,8,Televisão,12000000,1,0:02:00,GK,Pre. L2,A4,Equipe 1,Lucas
+1,10,8,Facebook,15000000,1,0:02:00,GK,Pre. L3,A4,Equipe 2,Laura
+1,14,8,Google Ad,20000000,3,0:02:00,GK,Fndn. L5,A7,Equipe 1,Lucas
+1,10,9,Website,11000000,1,0:02:00,CNI,KJI. L4,B12,Equipe 3,Alice
+1,27,9,Facebook,12000000,3,0:02:00,GK,Fndn. L5,A1,Equipe 1,Lorena
+1,28,9,Televisão,15000000,1,0:02:00,GK,Fndn. L5,B18,Equipe 2,Helena
+1,28,9,Televisão,25000000,2,0:02:00,GK,Fndn. L3,A1,Equipe 2,Heitor
+1,29,9,Facebook,7000000,3,0:02:00,GK,Fndn. L1,A2,Equipe 4,Bernardo
+1,30,9,Youtube,12000000,4,0:02:00,GK,Fndn. L5,A1,Equipe 1,Lorenzo
+1,11,9,WhatsApp,15000000,1,0:02:00,GK,KJI. L4,A2,Equipe 4,Bernardo
+1,15,9,Website,15000000,3,0:02:00,GK,Fndn. L5,B12,Equipe 1,Lorena
+1,20,10,Facebook,38000000,1,0:02:00,FC,KJI. L4,B12,Equipe 4,Bernardo
+1,8,10,WhatsApp,38000000,4,0:02:00,BE,KJI. L4,A2,Equipe 4,Bernardo
+1,27,10,Televisão,38000000,1,0:02:00,BE,Fndn. L3,B18,Equipe 4,Bernardo
+1,5,10,Google Ad,15000000,1,0:02:00,GK,KJI. L4,A2,Equipe 4,Theo
+1,27,10,Website,15000000,1,0:02:00,GK,KJI. L4,A7,Equipe 3,Sophia
+1,30,10,WhatsApp,15000000,1,0:02:00,GK,Pre. L2,A7,Equipe 3,Sophia
+1,1,10,WhatsApp,10000000,1,0:02:00,GK,Fndn. L1,B12,Equipe 1,Samuel
+1,2,10,Televisão,11000000,1,0:02:00,GK,Pre. L2,C8,Equipe 3,Sophia
+1,6,10,Televisão,20000000,1,0:02:00,GK,Fndn. L5,C8,Equipe 4,Theo
+1,29,10,WhatsApp,25000000,6,0:02:00,GK,KJI. L4,C8,Equipe 1,Arthur
+1,22,11,Facebook,19000000,5,0:02:00,BE,Fndn. L5,A7,Equipe 1,Lorenzo
+1,22,11,Televisão,20000000,4,0:02:00,CNI,Pre. L3,A7,Equipe 2,Laura
+1,15,11,Website,12000000,2,0:02:00,GK,Fndn. L5,A1,Equipe 1,Arthur
+1,19,11,Televisão,15000000,3,0:02:00,GK,Fndn. L1,A1,Equipe 2,Heitor
+1,17,11,Website,7000000,3,0:02:00,GK,KJI. L4,B12,Equipe 1,Davi
+1,19,11,Youtube,12000000,1,0:02:00,GK,Pre. L8,B18,Equipe 2,Helena
+1,14,11,WhatsApp,25000000,1,0:02:00,GK,Fndn. L1,C8,Equipe 3,João
+1,29,12,Website,19000000,1,0:02:00,BE,Fndn. L6,A7,Equipe 2,Bruno
+1,13,12,Google Ad,12000000,5,0:02:00,GK,KJI. L4,A1,Equipe 1,Lorena
+1,26,12,Facebook,25000000,2,0:02:00,GK,Fndn. L5,A1,Equipe 4,Theo
+1,16,12,Televisão,15000000,3,0:02:00,GK,Pre. L8,A2,Equipe 2,Helena
+1,14,12,Facebook,7000000,1,0:02:00,GK,Fndn. L1,B18,Equipe 1,Lorenzo
+1,16,1,WhatsApp,25000000,1,0:02:00,GK,Pre. L2,B18,Equipe 2,Helena
+1,1,2,Facebook,7000000,2,0:02:00,GK,Pre. L8,A2,Equipe 2,Helena
+1,11,2,Facebook,12000000,2,0:02:00,GK,Pre. L8,A4,Equipe 1,Lucas
+1,11,2,Televisão,15000000,1,0:02:00,GK,Fndn. L1,B18,Equipe 4,Theo
+1,1,4,Televisão,19000000,1,0:02:00,BE,Fndn. L1,B12,Equipe 1,Samuel
+1,1,4,WhatsApp,20000000,3,0:02:00,CNI,Fndn. L1,B18,Equipe 4,Bernardo
+1,1,4,Televisão,15000000,1,0:02:00,GK,Pre. L3,C8,Equipe 3,Alice
+1,1,5,Televisão,20000000,4,0:02:00,CNI,Fndn. L1,B13,Equipe 1,Lorena
+1,4,5,Youtube,15000000,1,0:02:00,GK,Fndn. L3,B12,Equipe 2,Helena
+1,11,5,WhatsApp,25000000,4,0:02:00,GK,Fndn. L5,B12,Equipe 2,Laura
+1,12,7,WhatsApp,12000000,4,0:02:00,GK,Fndn. L3,B13,Equipe 3,Sophia
+1,31,8,Televisão,19000000,3,0:02:00,BE,Pre. L3,B13,Equipe 2,Laura
+1,2,8,Website,12000000,2,0:02:00,GK,Pre. L3,A1,Equipe 1,Samuel
+1,9,8,Televisão,12000000,5,0:02:00,GK,Pre. L4,A4,Equipe 2,Laura
+1,25,8,Facebook,10000000,4,0:02:00,GK,Pre. L4,A2,Equipe 2,Helena
+0,8,7,Website,0,3,0:02:00,,,A1,Equipe 2,Laura
+0,5,7,WhatsApp,0,1,0:02:00,,,A2,Equipe 1,Davi
+0,2,9,Google Ad,0,2,0:02:00,,,A1,Equipe 3,João
+0,20,9,WhatsApp,0,1,0:02:00,,,A4,Equipe 2,Helena
+0,22,9,Televisão,0,3,0:02:00,,,B12,Equipe 2,Helena
+0,15,9,Televisão,0,3,0:02:00,,,C8,Equipe 4,Bernardo
+0,21,9,WhatsApp,0,2,0:02:00,,,C8,Equipe 3,Alice
+0,24,10,WhatsApp,0,1,0:02:00,,,A2,Equipe 4,Bernardo
+0,5,10,Facebook,0,5,0:02:00,,,B18,Equipe 1,Samuel
+0,15,11,Televisão,0,1,0:02:00,,,A1,Equipe 2,Helena
+0,29,11,Facebook,0,4,0:02:00,,,A4,Equipe 1,Lucas
+0,11,11,Facebook,0,3,0:02:00,,,A2,Equipe 1,Lorenzo
+0,26,11,Website,0,6,0:02:00,,,C8,Equipe 2,Helena
+0,31,12,WhatsApp,0,1,0:02:00,,,A1,Equipe 1,Lucas
+0,30,12,Google Ad,0,4,0:02:00,,,A4,Equipe 4,Theo
+0,14,12,Facebook,0,1,0:02:00,,,B13,Equipe 1,Davi
+0,30,12,Facebook,0,4,0:02:00,,,B18,Equipe 2,Laura
+0,8,7,Website,0,3,0:02:00,,,A1,Equipe 2,Laura
+0,5,7,WhatsApp,0,1,0:02:00,,,A2,Equipe 1,Davi
+1,11,2,Youtube,38000000,3,0:02:00,BE,Fndn. L1,A2,Equipe 1,Lorenzo
+1,13,9,Facebook,19000000,6,0:02:00,BE,Fndn. L3,A7,Equipe 1,Lorena
+1,25,9,Facebook,15000000,4,0:02:00,GK,KJI. L4,A1,Equipe 4,Bernardo
+1,30,9,Youtube,12000000,4,0:02:00,GK,KJI. L4,A1,Equipe 2,Heitor
+1,26,10,Televisão,11000000,1,0:02:00,CNI,Pre. L8,B13,Equipe 4,Bernardo
+1,28,10,Website,12000000,1,0:02:00,GK,Pre. L4,A1,Equipe 4,Theo
+1,28,10,Google Ad,7000000,3,0:02:00,GK,Fndn. L1,C8,Equipe 1,Lorenzo
+1,24,11,Website,20000000,7,0:02:00,GK,Fndn. L5,A1,Equipe 2,Bruno
+1,26,11,Televisão,25000000,3,0:02:00,GK,Pre. L3,A4,Equipe 1,Samuel
+1,1,11,Televisão,15000000,2,0:02:00,GK,Fndn. L3,B12,Equipe 2,Heitor
+1,30,11,WhatsApp,21000000,3,0:02:00,GK,Pre. L3,B18,Equipe 2,Laura
+1,11,2,Youtube,38000000,3,0:02:00,BE,Fndn. L1,A2,Equipe 1,Lorenzo
+0,11,11,Google Ad,0,2,0:02:00,,,B13,Equipe 3,Alice
+0,29,11,Televisão,0,3,0:02:00,,,B18,Equipe 2,Laura
+1,12,2,Facebook,19000000,5,0:02:00,BE,Fndn. L3,B18,Equipe 4,Bernardo
+1,11,3,Televisão,20000000,1,0:02:00,GK,Fndn. L5,A1,Equipe 2,Helena
+1,19,10,Google Ad,11000000,1,0:02:00,CNI,Pre. L3,A2,Equipe 1,Arthur
+1,5,10,Google Ad,25000000,2,0:02:00,GK,Pre. L3,A1,Equipe 3,Sophia
+1,22,10,Youtube,12000000,2,0:02:00,GK,Pre. L3,A4,Equipe 1,Davi
+1,8,10,Google Ad,12000000,3,0:02:00,GK,KJI. L4,B12,Equipe 2,Helena
+1,22,11,WhatsApp,15000000,1,0:02:00,GK,Fndn. L6,A4,Equipe 1,Lorena
+1,11,11,Website,21000000,4,0:02:00,GK,KJI. L4,A7,Equipe 2,Heitor
+1,17,11,Televisão,15000000,1,0:02:00,GK,Fndn. L5,B18,Equipe 2,Helena
+1,12,2,Facebook,19000000,5,0:02:00,BE,Fndn. L3,B18,Equipe 4,Bernardo
+1,11,3,Televisão,20000000,1,0:02:00,GK,Fndn. L5,A1,Equipe 2,Helena
+0,5,5,Televisão,0,1,0:02:00,,,B12,Equipe 1,Lucas
+0,29,9,Televisão,0,4,0:02:00,,,B18,Equipe 1,Lorena
+0,11,10,Website,0,1,0:02:00,,,C8,Equipe 3,João
+0,23,11,WhatsApp,0,1,0:02:00,,,A1,Equipe 2,Helena
+0,5,5,Televisão,0,1,0:02:00,,,B12,Equipe 1,Lucas
+1,2,1,Facebook,15000000,3,0:02:00,GK,Pre. L8,B13,Equipe 1,Davi
+1,11,2,WhatsApp,12000000,1,0:02:00,GK,KJI. L4,B13,Equipe 1,Lorenzo
+1,1,5,Facebook,19000000,2,0:02:00,BE,Fndn. L1,A1,Equipe 3,João
+1,1,6,Google Ad,15000000,2,0:02:00,GK,Pre. L3,C8,Equipe 2,Helena
+1,12,9,Youtube,38000000,6,0:02:00,BE,Fndn. L3,A1,Equipe 1,Lucas
+1,7,9,Televisão,21000000,5,0:02:00,GK,Pre. L8,B12,Equipe 2,Heitor
+1,11,9,Website,25000000,5,0:02:00,GK,Fndn. L1,A2,Equipe 2,Helena
+1,29,9,Google Ad,7000000,2,0:02:00,GK,Pre. L2,A4,Equipe 4,Bernardo
+1,3,10,WhatsApp,38000000,3,0:02:00,BE,Fndn. L5,A1,Equipe 3,João
+1,6,10,WhatsApp,19000000,1,0:02:00,BE,KJI. L4,A4,Equipe 4,Theo
+1,26,10,Televisão,20000000,3,0:02:00,CNI,KJI. L4,B18,Equipe 1,Lucas
+1,1,10,Televisão,7000000,4,0:02:00,GK,Fndn. L5,A1,Equipe 2,Helena
+1,1,10,Facebook,12000000,4,0:02:00,GK,Pre. L3,A1,Equipe 1,Samuel
+1,30,10,WhatsApp,15000000,2,0:02:00,GK,Fndn. L6,B18,Equipe 2,Heitor
+1,3,11,Facebook,20000000,6,0:02:00,CNI,Fndn. L5,A2,Equipe 3,Sophia
+1,3,11,WhatsApp,25000000,2,0:02:00,GK,Pre. L4,B12,Equipe 1,Lorenzo
+1,10,11,Facebook,12000000,1,0:02:00,GK,Pre. L2,B12,Equipe 1,Samuel
+1,2,11,Website,25000000,1,0:02:00,GK,Fndn. L5,B18,Equipe 2,Laura
+1,16,12,Televisão,12000000,3,0:02:00,GK,Fndn. L3,A2,Equipe 4,Theo
+1,1,12,Website,10000000,2,0:02:00,GK,Fndn. L1,C8,Equipe 3,João
+1,2,1,Facebook,15000000,3,0:02:00,GK,Pre. L8,B13,Equipe 1,Davi
+1,11,2,WhatsApp,12000000,1,0:02:00,GK,KJI. L4,B13,Equipe 1,Lorenzo
+1,1,5,Facebook,19000000,2,0:02:00,BE,Fndn. L1,A1,Equipe 3,João
+1,1,6,Google Ad,15000000,2,0:02:00,GK,Pre. L3,C8,Equipe 2,Helena
+0,23,9,Youtube,0,1,0:02:00,,,B18,Equipe 3,Sophia
+0,9,10,Facebook,0,1,0:02:00,,,A2,Equipe 3,Sophia
+0,23,10,Facebook,0,1,0:02:00,,,A7,Equipe 4,Theo
+0,4,10,Televisão,0,2,0:02:00,,,B12,Equipe 2,Laura
+0,8,12,Televisão,0,6,0:02:00,,,B12,Equipe 2,Bruno
+0,10,12,Facebook,0,1,0:02:00,,,C8,Equipe 4,Theo
+1,11,2,Televisão,20000000,1,0:02:00,GK,Pre. L2,B13,Equipe 4,Bernardo
+1,1,4,Google Ad,12000000,1,0:02:00,GK,Fndn. L5,A2,Equipe 2,Mathias
+1,13,6,Televisão,21000000,4,0:02:00,GK,Fndn. L6,A4,Equipe 4,Theo
+1,28,8,WhatsApp,11000000,2,0:02:00,CNI,KJI. L4,A4,Equipe 3,Sophia
+1,27,10,Televisão,19000000,2,0:02:00,BE,Pre. L3,B12,Equipe 1,Lorenzo
+1,9,10,Televisão,15000000,1,0:02:00,GK,Pre. L2,C8,Equipe 2,Heitor
+1,19,10,Televisão,25000000,3,0:02:00,GK,KJI. L4,B18,Equipe 2,Heitor
+1,3,11,Televisão,12000000,4,0:02:00,GK,KJI. L4,A7,Equipe 3,João
+1,12,11,Google Ad,15000000,2,0:02:00,GK,Pre. L4,B12,Equipe 3,Alice
+1,15,12,Televisão,38000000,1,0:02:00,BE,Fndn. L5,A2,Equipe 2,Mathias
+1,11,2,Televisão,20000000,1,0:02:00,GK,Pre. L2,B13,Equipe 4,Bernardo
+1,1,4,Google Ad,12000000,1,0:02:00,GK,Fndn. L5,A2,Equipe 2,Mathias
+1,13,6,Televisão,21000000,4,0:02:00,GK,Fndn. L6,A4,Equipe 4,Theo
+1,28,8,WhatsApp,11000000,2,0:02:00,CNI,KJI. L4,A4,Equipe 3,Sophia
+0,12,1,Televisão,0,1,0:02:00,,,A2,Equipe 2,Bruno
+0,30,12,Website,0,5,0:02:00,,,A1,Equipe 1,Samuel
+0,30,12,Website,0,3,0:02:00,,,C8,Equipe 1,Lorenzo
+0,12,1,Televisão,0,1,0:02:00,,,A2,Equipe 2,Bruno
+1,11,2,WhatsApp,38000000,5,0:02:00,BE,Fndn. L6,A2,Equipe 2,Heitor
+1,15,8,Televisão,15000000,2,0:02:00,GK,Pre. L3,B12,Equipe 1,Lorenzo
+1,30,9,WhatsApp,19000000,4,0:02:00,BE,Fndn. L5,C8,Equipe 1,Arthur
+1,23,9,Televisão,12000000,2,0:02:00,GK,Fndn. L1,B13,Equipe 3,Sophia
+1,30,9,WhatsApp,20000000,4,0:02:00,GK,KJI. L4,A1,Equipe 1,Davi
+1,11,9,WhatsApp,15000000,3,0:02:00,GK,Fndn. L5,A4,Equipe 2,Laura
+1,4,9,Televisão,11000000,2,0:02:00,GK,Fndn. L5,B18,Equipe 4,Bernardo
+1,12,9,Televisão,12000000,1,0:02:00,GK,Pre. L3,B18,Equipe 2,Laura
+1,9,9,WhatsApp,21000000,1,0:02:00,GK,Fndn. L3,C8,Equipe 2,Laura
+1,26,10,Facebook,38000000,3,0:02:00,BE,Fndn. L1,B18,Equipe 1,Lorenzo
+1,18,10,Google Ad,11000000,2,0:02:00,CNI,Pre. L4,A7,Equipe 4,Theo
+1,29,10,Google Ad,15000000,2,0:02:00,GK,KJI. L4,A2,Equipe 3,Alice
+1,27,10,Google Ad,25000000,4,0:02:00,GK,Pre. L3,B12,Equipe 2,Helena
+1,15,11,WhatsApp,15000000,1,0:02:00,GK,Pre. L3,A1,Equipe 2,Laura
+1,16,11,Youtube,12000000,3,0:02:00,GK,Fndn. L6,B12,Equipe 4,Theo
+1,27,11,Google Ad,20000000,1,0:02:00,GK,KJI. L4,A1,Equipe 1,Lucas
+1,3,11,Facebook,12000000,4,0:02:00,GK,KJI. L4,B12,Equipe 4,Bernardo
+1,26,11,WhatsApp,12000000,1,0:02:00,GK,KJI. L4,C8,Equipe 3,João
+1,22,12,Televisão,12000000,4,0:02:00,GK,Pre. L4,A2,Equipe 1,Lorenzo
+1,24,12,Televisão,7000000,2,0:02:00,GK,Pre. L3,A2,Equipe 3,João
+1,24,12,Televisão,25000000,2,0:02:00,GK,KJI. L4,B12,Equipe 4,Theo
+1,11,2,WhatsApp,38000000,5,0:02:00,BE,Fndn. L6,A2,Equipe 2,Heitor
+1,15,8,Televisão,15000000,2,0:02:00,GK,Pre. L3,B12,Equipe 1,Lorenzo
+0,17,3,Website,0,2,0:02:00,,,A1,Equipe 2,Helena
+0,6,8,Televisão,0,1,0:02:00,,,B12,Equipe 3,João
+0,18,9,Televisão,0,1,0:02:00,,,C8,Equipe 3,Sophia
+0,11,11,Youtube,0,4,0:02:00,,,B18,Equipe 2,Heitor
+0,21,12,Google Ad,0,1,0:02:00,,,A4,Equipe 1,Lucas
+0,17,3,Website,0,2,0:02:00,,,A1,Equipe 2,Helena
+1,12,1,Website,12000000,1,0:02:00,GK,Fndn. L5,A2,Equipe 2,Mathias
+1,1,4,Facebook,20000000,1,0:02:00,GK,Fndn. L3,A2,Equipe 2,Bruno
+1,27,8,Televisão,11000000,1,0:02:00,CNI,Pre. L2,B13,Equipe 3,Sophia
+1,26,8,Youtube,15000000,1,0:02:00,GK,Pre. L4,B12,Equipe 2,Helena
+1,30,9,Facebook,15000000,1,0:02:00,GK,Fndn. L5,B12,Equipe 3,João
+1,11,9,Facebook,12000000,5,0:02:00,GK,Pre. L8,B18,Equipe 1,Lorena
+1,28,10,Televisão,21000000,3,0:02:00,GK,Fndn. L1,B13,Equipe 2,Laura
+1,8,10,Google Ad,12000000,2,0:02:00,GK,Fndn. L1,A2,Equipe 1,Samuel
+1,25,10,Televisão,25000000,1,0:02:00,GK,KJI. L4,B18,Equipe 4,Theo
+1,2,10,Facebook,15000000,3,0:02:00,GK,KJI. L4,C8,Equipe 1,Samuel
+1,29,10,Televisão,12000000,1,0:02:00,GK,Pre. L3,C8,Equipe 2,Helena
+1,6,11,Website,15000000,1,0:02:00,GK,KJI. L4,A1,Equipe 2,Laura
+1,19,11,Televisão,15000000,5,0:02:00,GK,Pre. L3,A1,Equipe 2,Laura
+1,22,11,Google Ad,12000000,2,0:02:00,GK,Fndn. L5,B13,Equipe 1,Lorenzo
+1,3,11,Website,25000000,3,0:02:00,GK,Fndn. L1,A4,Equipe 1,Davi
+1,2,11,Website,25000000,1,0:02:00,GK,Pre. L3,C8,Equipe 1,Samuel
+1,1,12,Facebook,20000000,4,0:02:00,GK,Pre. L8,C8,Equipe 2,Laura
+1,17,12,Youtube,15000000,5,0:02:00,GK,Fndn. L1,C8,Equipe 3,Sophia
+1,2,12,Facebook,12000000,2,0:02:00,GK,Pre. L3,A7,Equipe 1,Davi
+1,12,1,Website,12000000,1,0:02:00,GK,Fndn. L5,A2,Equipe 2,Mathias
+1,1,4,Facebook,20000000,1,0:02:00,GK,Fndn. L3,A2,Equipe 2,Bruno
+1,27,8,Televisão,11000000,1,0:02:00,CNI,Pre. L2,B13,Equipe 3,Sophia
+0,6,1,Televisão,0,4,0:02:00,,,C8,Equipe 1,Lorenzo
+0,28,5,WhatsApp,0,1,0:02:00,,,B18,Equipe 1,Davi
+0,5,10,Facebook,0,3,0:02:00,,,A1,Equipe 4,Theo
+0,4,12,WhatsApp,0,4,0:02:00,,,A2,Equipe 3,Sophia
+0,28,12,WhatsApp,0,2,0:02:00,,,A2,Equipe 2,Helena
+0,10,12,Televisão,0,1,0:02:00,,,A4,Equipe 2,Heitor
+0,30,12,WhatsApp,0,2,0:02:00,,,A7,Equipe 1,Lorena
+0,6,1,Televisão,0,4,0:02:00,,,C8,Equipe 1,Lorenzo
+0,28,5,WhatsApp,0,1,0:02:00,,,B18,Equipe 1,Davi
+1,4,4,Website,20000000,1,0:02:00,GK,Fndn. L3,C8,Equipe 3,Sophia
+1,6,5,Website,12000000,1,0:02:00,GK,Fndn. L3,A2,Equipe 2,Laura
+1,12,6,Facebook,12000000,5,0:02:00,GK,Fndn. L1,A1,Equipe 4,Bernardo
+1,11,8,WhatsApp,12000000,1,0:02:00,GK,Pre. L8,B12,Equipe 2,Heitor
+1,2,10,Televisão,15000000,1,0:02:00,GK,Fndn. L1,A7,Equipe 1,Samuel
+1,8,10,Televisão,15000000,4,0:02:00,GK,Pre. L2,C8,Equipe 3,Sophia
+1,17,11,Facebook,11000000,2,0:02:00,CNI,KJI. L4,C8,Equipe 1,Arthur
+1,10,12,Facebook,20000000,1,0:02:00,GK,KJI. L4,B18,Equipe 4,Bernardo
+1,17,12,Google Ad,7000000,5,0:02:00,GK,Pre. L4,B18,Equipe 4,Theo
+1,4,4,Website,20000000,1,0:02:00,GK,Fndn. L3,C8,Equipe 3,Sophia
+1,6,5,Website,12000000,1,0:02:00,GK,Fndn. L3,A2,Equipe 2,Laura
+1,12,6,Facebook,12000000,5,0:02:00,GK,Fndn. L1,A1,Equipe 4,Bernardo
+0,2,5,Televisão,0,1,0:02:00,,,B13,Equipe 3,João
+0,30,9,Televisão,0,2,0:02:00,,,B12,Equipe 2,Helena
+0,8,10,WhatsApp,0,1,0:02:00,,,A1,Equipe 1,Lorena
+0,20,11,Facebook,0,2,0:02:00,,,A2,Equipe 1,Lorena
+0,2,5,Televisão,0,1,0:02:00,,,B13,Equipe 3,João
+1,10,1,Facebook,12000000,1,0:02:00,GK,KJI. L4,A7,Equipe 3,Alice
+1,1,1,Facebook,11000000,2,0:02:00,GK,Pre. L4,A7,Equipe 1,Lucas
+1,11,2,Televisão,10000000,2,0:02:00,GK,Pre. L3,B18,Equipe 4,Theo
+1,3,5,Google Ad,38000000,1,0:02:00,BE,KJI. L4,A1,Equipe 3,João
+1,20,7,Website,19000000,5,0:02:00,BE,Fndn. L5,B12,Equipe 4,Bernardo
+1,11,8,Televisão,15000000,4,0:02:00,GK,Fndn. L5,C8,Equipe 4,Bernardo
+1,28,9,Facebook,19000000,4,0:02:00,FC,Fndn. L3,B12,Equipe 4,Theo
+1,30,9,Facebook,38000000,1,0:02:00,BE,Fndn. L1,A1,Equipe 3,Sophia
+1,11,9,Facebook,25000000,2,0:02:00,GK,Fndn. L5,A1,Equipe 2,Bruno
+1,12,9,Facebook,25000000,5,0:02:00,GK,Pre. L3,A1,Equipe 1,Lucas
+1,17,9,Website,12000000,4,0:02:00,GK,Fndn. L1,B18,Equipe 3,Sophia
+1,29,9,Facebook,15000000,3,0:02:00,GK,Pre. L8,C8,Equipe 1,Lorenzo
+1,8,10,Website,7000000,1,0:02:00,GK,Pre. L3,B18,Equipe 1,Davi
+1,27,10,WhatsApp,7000000,1,0:02:00,GK,KJI. L4,B13,Equipe 3,Sophia
+1,2,11,WhatsApp,20000000,1,0:02:00,CNI,Pre. L8,A4,Equipe 2,Laura
+1,1,11,Website,20000000,1,0:02:00,GK,Pre. L2,C8,Equipe 1,Davi
+1,31,12,Google Ad,12000000,1,0:02:00,GK,KJI. L4,A2,Equipe 1,Lorenzo
+1,30,12,Website,12000000,1,0:02:00,GK,KJI. L4,C8,Equipe 1,Lucas
+1,10,1,Facebook,12000000,1,0:02:00,GK,KJI. L4,A7,Equipe 3,Alice
+1,1,1,Facebook,11000000,2,0:02:00,GK,Pre. L4,A7,Equipe 1,Lucas
+1,11,2,Televisão,10000000,2,0:02:00,GK,Pre. L3,B18,Equipe 4,Theo
+1,3,5,Google Ad,38000000,1,0:02:00,BE,KJI. L4,A1,Equipe 3,João
+1,20,7,Website,19000000,5,0:02:00,BE,Fndn. L5,B12,Equipe 4,Bernardo
+1,11,8,Televisão,15000000,4,0:02:00,GK,Fndn. L5,C8,Equipe 4,Bernardo
+0,5,4,Facebook,0,2,0:02:00,,,B18,Equipe 2,Laura
+0,22,10,Facebook,0,1,0:02:00,,,B12,Equipe 2,Helena
+0,26,10,Website,0,1,0:02:00,,,A4,Equipe 1,Davi
+0,8,10,Facebook,0,5,0:02:00,,,B18,Equipe 1,Lucas
+0,17,11,Televisão,0,4,0:02:00,,,B18,Equipe 4,Bernardo
+0,11,12,Website,0,2,0:02:00,,,C8,Equipe 2,Laura
+0,22,12,Televisão,0,2,0:02:00,,,A2,Equipe 2,Bruno
+0,1,12,Website,0,3,0:02:00,,,A7,Equipe 1,Lorenzo
+0,5,4,Facebook,0,2,0:02:00,,,B18,Equipe 2,Laura
+1,11,2,Televisão,12000000,3,0:02:10,GK,Pre. L3,B18,Equipe 1,Lucas
+1,28,7,Google Ad,12000000,1,0:02:10,GK,KJI. L4,B18,Equipe 3,Sophia
+1,12,8,Website,38000000,4,0:02:10,BE,Fndn. L3,A2,Equipe 2,Laura
+1,30,9,Youtube,12000000,5,0:02:10,GK,Fndn. L1,A1,Equipe 2,Laura
+1,14,9,Youtube,7000000,1,0:02:10,GK,Pre. L2,B13,Equipe 2,Helena
+1,26,9,Google Ad,20000000,2,0:02:10,GK,Pre. L3,C8,Equipe 1,Lucas
+1,5,10,Website,19000000,1,0:02:10,BE,Fndn. L1,B12,Equipe 1,Lucas
+1,29,10,Website,15000000,3,0:02:10,GK,Pre. L4,A4,Equipe 4,Bernardo
+1,2,11,Televisão,20000000,4,0:02:10,CNI,Pre. L2,A4,Equipe 2,Laura
+1,25,11,Televisão,25000000,4,0:02:10,GK,KJI. L4,B18,Equipe 1,Lorenzo
+1,17,11,Facebook,21000000,1,0:02:10,GK,Pre. L4,C8,Equipe 4,Theo
+1,11,2,Televisão,12000000,3,0:02:10,GK,Pre. L3,B18,Equipe 1,Lucas
+1,28,7,Google Ad,12000000,1,0:02:10,GK,KJI. L4,B18,Equipe 3,Sophia
+1,12,8,Website,38000000,4,0:02:10,BE,Fndn. L3,A2,Equipe 2,Laura
+0,30,11,Televisão,0,2,0:02:10,,,A2,Equipe 4,Theo
+0,11,11,WhatsApp,0,3,0:02:10,,,A7,Equipe 2,Laura
+1,11,1,Google Ad,25000000,3,0:02:12,GK,Pre. L2,A7,Equipe 4,Theo
+1,15,1,Facebook,12000000,1,0:02:12,GK,Fndn. L5,B12,Equipe 2,Helena
+1,14,2,Website,12000000,1,0:02:12,GK,Pre. L2,A1,Equipe 3,João
+1,11,2,Televisão,7000000,1,0:02:12,GK,Fndn. L1,A2,Equipe 2,Helena
+1,1,5,Website,20000000,2,0:02:12,CNI,Fndn. L5,B13,Equipe 1,Lorenzo
+1,7,5,Website,15000000,1,0:02:12,GK,Pre. L2,B12,Equipe 1,Davi
+1,1,5,Facebook,15000000,2,0:02:12,GK,KJI. L4,C8,Equipe 2,Laura
+1,6,7,Google Ad,38000000,1,0:02:12,BE,Fndn. L5,A7,Equipe 1,Lorena
+1,31,8,Website,19000000,2,0:02:12,BE,KJI. L4,A1,Equipe 2,Laura
+1,12,8,Website,10000000,4,0:02:12,GK,Pre. L8,A4,Equipe 4,Theo
+1,28,9,Youtube,21000000,3,0:02:12,GK,Pre. L3,A4,Equipe 2,Bruno
+1,2,9,Televisão,10000000,2,0:02:12,GK,Pre. L2,A1,Equipe 2,Helena
+1,21,9,Facebook,12000000,3,0:02:12,GK,KJI. L4,A1,Equipe 3,Sophia
+1,30,9,Website,15000000,1,0:02:12,GK,Fndn. L1,B13,Equipe 2,Bruno
+1,24,9,Youtube,25000000,2,0:02:12,GK,KJI. L4,A2,Equipe 4,Theo
+1,24,9,WhatsApp,15000000,2,0:02:12,GK,Fndn. L6,A4,Equipe 2,Heitor
+1,30,9,Google Ad,12000000,2,0:02:12,GK,Pre. L2,A7,Equipe 3,João
+1,22,9,Google Ad,12000000,2,0:02:12,GK,KJI. L4,B12,Equipe 3,Sophia
+1,26,9,Facebook,25000000,3,0:02:12,GK,Pre. L3,B18,Equipe 2,Laura
+1,29,10,Facebook,19000000,4,0:02:12,BE,Fndn. L3,B18,Equipe 1,Lorenzo
+1,20,10,Website,38000000,5,0:02:12,BE,KJI. L4,C8,Equipe 1,Davi
+1,4,10,Facebook,20000000,2,0:02:12,GK,Pre. L8,A1,Equipe 1,Lucas
+1,20,10,Facebook,12000000,2,0:02:12,GK,KJI. L4,A1,Equipe 4,Bernardo
+1,22,10,Google Ad,7000000,1,0:02:12,GK,Fndn. L1,A2,Equipe 1,Davi
+1,30,10,WhatsApp,15000000,2,0:02:12,GK,Pre. L3,B18,Equipe 2,Heitor
+1,3,10,Televisão,15000000,2,0:02:12,GK,KJI. L4,B13,Equipe 1,Lorena
+1,8,10,Televisão,20000000,3,0:02:12,GK,Fndn. L5,B18,Equipe 3,Sophia
+1,23,10,Televisão,15000000,1,0:02:12,GK,Fndn. L5,C8,Equipe 4,Bernardo
+1,22,11,Facebook,38000000,3,0:02:12,BE,Pre. L4,B13,Equipe 1,Lorena
+1,3,11,Facebook,19000000,3,0:02:12,BE,Fndn. L5,B18,Equipe 2,Helena
+1,6,11,Facebook,11000000,5,0:02:12,GK,Fndn. L6,A1,Equipe 4,Bernardo
+1,22,11,Facebook,25000000,2,0:02:12,GK,Fndn. L1,B12,Equipe 1,Davi
+1,22,11,Google Ad,12000000,1,0:02:12,GK,Pre. L4,A2,Equipe 1,Lorena
+1,11,11,Website,15000000,1,0:02:12,GK,Fndn. L6,B18,Equipe 1,Davi
+1,17,11,Televisão,15000000,5,0:02:12,GK,Fndn. L1,B18,Equipe 2,Heitor
+1,1,11,Website,20000000,1,0:02:12,GK,Fndn. L5,C8,Equipe 2,Laura
+1,11,12,Google Ad,20000000,3,0:02:12,CNI,Pre. L4,A2,Equipe 3,João
+1,25,12,Google Ad,12000000,2,0:02:12,GK,Fndn. L5,A2,Equipe 3,João
+1,24,12,Televisão,15000000,3,0:02:12,GK,KJI. L4,B12,Equipe 4,Bernardo
+1,31,12,Televisão,12000000,2,0:02:12,GK,Pre. L8,C8,Equipe 2,Heitor
+1,11,1,Google Ad,25000000,3,0:02:12,GK,Pre. L2,A7,Equipe 4,Theo
+1,15,1,Facebook,12000000,1,0:02:12,GK,Fndn. L5,B12,Equipe 2,Helena
+1,14,2,Website,12000000,1,0:02:12,GK,Pre. L2,A1,Equipe 3,João
+1,11,2,Televisão,7000000,1,0:02:12,GK,Fndn. L1,A2,Equipe 2,Helena
+1,1,5,Website,20000000,2,0:02:12,CNI,Fndn. L5,B13,Equipe 1,Lorenzo
+1,7,5,Website,15000000,1,0:02:12,GK,Pre. L2,B12,Equipe 1,Davi
+1,1,5,Facebook,15000000,2,0:02:12,GK,KJI. L4,C8,Equipe 2,Laura
+1,6,7,Google Ad,38000000,1,0:02:12,BE,Fndn. L5,A7,Equipe 1,Lorena
+1,31,8,Website,19000000,2,0:02:12,BE,KJI. L4,A1,Equipe 2,Laura
+0,14,3,WhatsApp,0,4,0:02:12,,,A2,Equipe 2,Laura
+0,3,5,Televisão,0,1,0:02:12,,,C8,Equipe 2,Heitor
+0,8,6,Televisão,0,2,0:02:12,,,A2,Equipe 1,Lucas
+0,30,8,Facebook,0,1,0:02:12,,,B12,Equipe 1,Lorenzo
+0,27,9,Televisão,0,3,0:02:12,,,B12,Equipe 4,Bernardo
+0,16,9,Website,0,5,0:02:12,,,B13,Equipe 1,Lucas
+0,9,10,Website,0,5,0:02:12,,,A1,Equipe 3,João
+0,9,10,WhatsApp,0,2,0:02:12,,,A1,Equipe 1,Lorenzo
+0,29,10,Televisão,0,4,0:02:12,,,B12,Equipe 1,Davi
+0,29,10,Youtube,0,2,0:02:12,,,B12,Equipe 1,Samuel
+0,21,11,Google Ad,0,2,0:02:12,,,B12,Equipe 3,Sophia
+0,21,12,Televisão,0,1,0:02:12,,,B12,Equipe 1,Lorenzo
+0,14,3,WhatsApp,0,4,0:02:12,,,A2,Equipe 2,Laura
+0,3,5,Televisão,0,1,0:02:12,,,C8,Equipe 2,Heitor
+0,8,6,Televisão,0,2,0:02:12,,,A2,Equipe 1,Lucas
+1,11,1,WhatsApp,15000000,2,0:02:18,GK,KJI. L4,C8,Equipe 3,Sophia
+1,30,9,Google Ad,25000000,2,0:02:18,GK,Fndn. L1,A1,Equipe 2,Helena
+1,1,10,Google Ad,11000000,2,0:02:18,CNI,Fndn. L3,C8,Equipe 1,Lucas
+1,28,10,Google Ad,12000000,1,0:02:18,GK,Pre. L4,A1,Equipe 1,Lorena
+1,4,11,Televisão,12000000,5,0:02:18,GK,Pre. L2,C8,Equipe 1,Arthur
+1,19,11,Google Ad,21000000,1,0:02:18,GK,Fndn. L1,A2,Equipe 2,Laura
+1,8,11,Televisão,20000000,1,0:02:18,GK,Pre. L3,B18,Equipe 4,Theo
+1,13,12,Facebook,19000000,3,0:02:18,BE,KJI. L4,B13,Equipe 4,Theo
+1,16,12,Televisão,15000000,3,0:02:18,GK,Pre. L4,A4,Equipe 1,Arthur
+1,11,1,WhatsApp,15000000,2,0:02:18,GK,KJI. L4,C8,Equipe 3,Sophia
+0,11,1,Youtube,0,4,0:02:18,,,A2,Equipe 1,Lucas
+0,12,3,Televisão,0,4,0:02:18,,,A7,Equipe 2,Laura
+0,30,5,Website,0,3,0:02:18,,,B12,Equipe 3,João
+0,6,12,Website,0,2,0:02:18,,,B18,Equipe 2,Mathias
+0,11,1,Youtube,0,4,0:02:18,,,A2,Equipe 1,Lucas
+0,12,3,Televisão,0,4,0:02:18,,,A7,Equipe 2,Laura
+0,30,5,Website,0,3,0:02:18,,,B12,Equipe 3,João
+1,15,1,WhatsApp,20000000,3,0:02:25,CNI,Fndn. L3,C8,Equipe 1,Davi
+1,1,5,WhatsApp,38000000,2,0:02:25,BE,Pre. L8,A1,Equipe 3,Alice
+1,1,5,Facebook,12000000,3,0:02:25,GK,Fndn. L5,B18,Equipe 1,Lorenzo
+1,20,5,Facebook,15000000,2,0:02:25,GK,Fndn. L1,C8,Equipe 1,Davi
+1,10,9,Facebook,19000000,3,0:02:25,BE,Pre. L3,B13,Equipe 2,Laura
+1,14,9,WhatsApp,11000000,2,0:02:25,GK,Fndn. L5,A2,Equipe 1,Samuel
+1,1,10,Facebook,19000000,1,0:02:25,BE,Fndn. L1,A1,Equipe 2,Mathias
+1,11,10,Televisão,21000000,1,0:02:25,GK,KJI. L4,A1,Equipe 1,Samuel
+1,15,10,Televisão,10000000,4,0:02:25,GK,Pre. L2,C8,Equipe 4,Bernardo
+1,29,10,Televisão,15000000,1,0:02:25,GK,Fndn. L1,A7,Equipe 1,Samuel
+1,8,10,Facebook,12000000,5,0:02:25,GK,Fndn. L6,B13,Equipe 2,Laura
+1,8,10,WhatsApp,25000000,3,0:02:25,GK,Fndn. L1,B18,Equipe 2,Laura
+1,10,11,WhatsApp,7000000,6,0:02:25,GK,KJI. L4,B12,Equipe 3,João
+1,11,11,Website,20000000,2,0:02:25,GK,Pre. L2,A2,Equipe 2,Helena
+1,22,11,Youtube,12000000,2,0:02:25,GK,Pre. L3,A2,Equipe 2,Heitor
+1,18,11,Facebook,25000000,4,0:02:25,GK,KJI. L4,B12,Equipe 3,Sophia
+1,15,1,WhatsApp,20000000,3,0:02:25,CNI,Fndn. L3,C8,Equipe 1,Davi
+1,1,5,WhatsApp,38000000,2,0:02:25,BE,Pre. L8,A1,Equipe 3,Alice
+1,1,5,Facebook,12000000,3,0:02:25,GK,Fndn. L5,B18,Equipe 1,Lorenzo
+1,20,5,Facebook,15000000,2,0:02:25,GK,Fndn. L1,C8,Equipe 1,Davi
+0,12,5,Televisão,0,2,0:02:25,,,B12,Equipe 4,Bernardo
+0,14,6,Televisão,0,1,0:02:25,,,C8,Equipe 2,Helena
+0,15,8,Televisão,0,2,0:02:25,,,A4,Equipe 1,Lorena
+0,20,9,Google Ad,0,1,0:02:25,,,B13,Equipe 3,Sophia
+0,2,10,Televisão,0,2,0:02:25,,,A1,Equipe 2,Bruno
+0,21,10,Facebook,0,3,0:02:25,,,A1,Equipe 1,Lorena
+0,23,10,Google Ad,0,3,0:02:25,,,B18,Equipe 4,Bernardo
+0,14,11,Televisão,0,2,0:02:25,,,B12,Equipe 2,Laura
+0,16,11,WhatsApp,0,3,0:02:25,,,B12,Equipe 3,João
+0,12,5,Televisão,0,2,0:02:25,,,B12,Equipe 4,Bernardo
+0,14,6,Televisão,0,1,0:02:25,,,C8,Equipe 2,Helena
+1,11,1,WhatsApp,20000000,1,0:02:30,GK,Fndn. L5,B18,Equipe 3,Sophia
+1,14,2,Google Ad,10000000,7,0:02:30,GK,Fndn. L5,B12,Equipe 1,Lorenzo
+1,10,7,Facebook,7000000,1,0:02:30,GK,Pre. L2,A1,Equipe 1,Lorenzo
+1,12,7,Website,25000000,2,0:02:30,GK,KJI. L4,A7,Equipe 3,João
+1,22,9,Facebook,19000000,2,0:02:30,BE,Fndn. L1,C8,Equipe 4,Bernardo
+1,27,9,Televisão,21000000,3,0:02:30,GK,Fndn. L1,B12,Equipe 2,Laura
+1,21,10,WhatsApp,38000000,3,0:02:30,BE,Fndn. L3,A1,Equipe 3,Sophia
+1,24,10,Televisão,20000000,2,0:02:30,CNI,Pre. L2,A1,Equipe 3,Sophia
+1,5,10,Televisão,11000000,4,0:02:30,CNI,KJI. L4,A4,Equipe 2,Heitor
+1,1,10,Facebook,12000000,1,0:02:30,GK,Fndn. L5,A1,Equipe 2,Helena
+1,8,10,WhatsApp,15000000,1,0:02:30,GK,Fndn. L1,A2,Equipe 2,Heitor
+1,28,10,Facebook,15000000,2,0:02:30,GK,Fndn. L6,A2,Equipe 1,Lorenzo
+1,7,10,WhatsApp,12000000,1,0:02:30,GK,Fndn. L3,B18,Equipe 2,Helena
+1,30,11,Facebook,15000000,1,0:02:30,GK,Fndn. L5,B12,Equipe 3,Sophia
+1,1,11,Website,20000000,3,0:02:30,GK,Pre. L3,B13,Equipe 4,Theo
+1,5,11,WhatsApp,12000000,3,0:02:30,GK,KJI. L4,C8,Equipe 1,Lorenzo
+1,1,12,Facebook,12000000,4,0:02:30,GK,KJI. L4,A7,Equipe 4,Bernardo
+1,2,12,Televisão,12000000,1,0:02:30,GK,Pre. L4,C8,Equipe 4,Bernardo
+1,11,1,WhatsApp,20000000,1,0:02:30,GK,Fndn. L5,B18,Equipe 3,Sophia
+1,14,2,Google Ad,10000000,7,0:02:30,GK,Fndn. L5,B12,Equipe 1,Lorenzo
+1,10,7,Facebook,7000000,1,0:02:30,GK,Pre. L2,A1,Equipe 1,Lorenzo
+1,12,7,Website,25000000,2,0:02:30,GK,KJI. L4,A7,Equipe 3,João
+0,11,5,Televisão,0,2,0:02:30,,,B18,Equipe 4,Bernardo
+0,27,5,WhatsApp,0,3,0:02:30,,,A1,Equipe 1,Davi
+0,20,9,Televisão,0,2,0:02:30,,,B12,Equipe 2,Heitor
+0,1,10,Facebook,0,4,0:02:30,,,B18,Equipe 1,Lorenzo
+0,1,11,Televisão,0,4,0:02:30,,,A2,Equipe 2,Helena
+0,25,11,Website,0,3,0:02:30,,,B13,Equipe 1,Lorenzo
+0,3,12,WhatsApp,0,1,0:02:30,,,A1,Equipe 3,João
+0,10,12,Facebook,0,1,0:02:30,,,A2,Equipe 2,Helena
+0,11,5,Televisão,0,2,0:02:30,,,B18,Equipe 4,Bernardo
+0,27,5,WhatsApp,0,3,0:02:30,,,A1,Equipe 1,Davi
+1,11,2,Televisão,20000000,2,0:02:50,GK,KJI. L4,B12,Equipe 1,Lucas
+1,12,9,Facebook,38000000,1,0:02:50,BE,Pre. L3,A1,Equipe 2,Mathias
+1,30,9,Facebook,25000000,2,0:02:50,GK,Fndn. L5,A1,Equipe 1,Samuel
+1,27,10,Facebook,19000000,1,0:02:50,BE,Fndn. L1,A2,Equipe 1,Davi
+1,31,10,Website,12000000,2,0:02:50,GK,Pre. L3,A2,Equipe 3,Alice
+1,25,10,Televisão,15000000,2,0:02:50,GK,Fndn. L5,A7,Equipe 2,Laura
+1,27,10,WhatsApp,12000000,2,0:02:50,GK,Pre. L8,C8,Equipe 2,Helena
+1,29,11,WhatsApp,11000000,3,0:02:50,CNI,Pre. L3,C8,Equipe 3,Sophia
+1,18,11,Facebook,21000000,1,0:02:50,GK,KJI. L4,B18,Equipe 4,Theo
+1,16,12,Website,15000000,6,0:02:50,GK,Fndn. L5,B18,Equipe 2,Laura
+1,11,2,Televisão,20000000,2,0:02:50,GK,KJI. L4,B12,Equipe 1,Lucas
+0,24,9,Facebook,0,2,0:02:50,,,C8,Equipe 4,Theo
+0,28,11,Televisão,0,2,0:02:50,,,A2,Equipe 2,Helena
+0,11,11,Google Ad,0,3,0:02:50,,,A4,Equipe 3,João
+1,12,1,Televisão,12000000,3,0:02:56,GK,Fndn. L1,A2,Equipe 2,Mathias
+1,17,6,Televisão,20000000,1,0:02:56,CNI,Pre. L8,B18,Equipe 1,Samuel
+1,27,9,Google Ad,25000000,1,0:02:56,GK,Pre. L3,B18,Equipe 1,Lorena
+1,15,9,Youtube,10000000,2,0:02:56,GK,Fndn. L5,C8,Equipe 2,Heitor
+1,30,9,Youtube,15000000,4,0:02:56,GK,Fndn. L1,C8,Equipe 4,Bernardo
+1,8,10,Website,19000000,2,0:02:56,BE,Pre. L2,B12,Equipe 1,Lorenzo
+1,6,10,Televisão,7000000,2,0:02:56,GK,KJI. L4,A1,Equipe 1,Lucas
+1,29,10,Google Ad,12000000,1,0:02:56,GK,Fndn. L3,A7,Equipe 3,Sophia
+1,3,11,Televisão,25000000,2,0:02:56,GK,Fndn. L5,A7,Equipe 1,Lorenzo
+1,30,12,Facebook,38000000,2,0:02:56,BE,Pre. L4,A1,Equipe 1,Lucas
+1,21,12,WhatsApp,15000000,3,0:02:56,GK,KJI. L4,A2,Equipe 3,João
+1,12,1,Televisão,12000000,3,0:02:56,GK,Fndn. L1,A2,Equipe 2,Mathias
+1,17,6,Televisão,20000000,1,0:02:56,CNI,Pre. L8,B18,Equipe 1,Samuel
+0,11,11,WhatsApp,0,2,0:02:56,,,B13,Equipe 2,Helena
+0,1,12,Televisão,0,2,0:02:56,,,B12,Equipe 4,Bernardo
+1,15,2,Televisão,12000000,2,0:03:00,GK,Fndn. L5,C8,Equipe 2,Heitor
+1,8,5,Televisão,15000000,3,0:03:00,GK,Fndn. L5,A4,Equipe 2,Heitor
+1,16,8,Website,11000000,3,0:03:00,CNI,Fndn. L5,A2,Equipe 1,Lorenzo
+1,8,10,Televisão,25000000,2,0:03:00,GK,Fndn. L5,A2,Equipe 2,Laura
+1,21,10,Youtube,12000000,4,0:03:00,GK,Pre. L3,B12,Equipe 1,Davi
+1,20,10,Google Ad,15000000,6,0:03:00,GK,KJI. L4,B18,Equipe 1,Samuel
+1,4,10,Televisão,20000000,3,0:03:00,GK,KJI. L4,C8,Equipe 3,João
+1,22,11,WhatsApp,15000000,6,0:03:00,GK,Pre. L8,B12,Equipe 1,Samuel
+1,31,12,Facebook,38000000,4,0:03:00,BE,Pre. L3,A1,Equipe 2,Mathias
+1,15,2,Televisão,12000000,2,0:03:00,GK,Fndn. L5,C8,Equipe 2,Heitor
+1,8,5,Televisão,15000000,3,0:03:00,GK,Fndn. L5,A4,Equipe 2,Heitor
+1,16,8,Website,11000000,3,0:03:00,CNI,Fndn. L5,A2,Equipe 1,Lorenzo
+0,4,5,Televisão,0,3,0:03:00,,,A1,Equipe 2,Heitor
+0,28,9,Televisão,0,3,0:03:00,,,C8,Equipe 4,Theo
+0,10,10,Website,0,3,0:03:00,,,A1,Equipe 1,Samuel
+0,22,11,Google Ad,0,1,0:03:00,,,A4,Equipe 3,Sophia
+0,4,5,Televisão,0,3,0:03:00,,,A1,Equipe 2,Heitor
+1,4,5,WhatsApp,19000000,1,0:03:10,BE,Pre. L3,A2,Equipe 3,Alice
+1,17,8,Televisão,15000000,2,0:03:10,GK,Fndn. L1,B12,Equipe 2,Bruno
+1,30,9,Televisão,7000000,2,0:03:10,GK,KJI. L4,A4,Equipe 4,Theo
+1,18,9,Televisão,12000000,2,0:03:10,GK,Fndn. L1,A7,Equipe 2,Laura
+1,27,9,WhatsApp,11000000,4,0:03:10,GK,Pre. L3,B12,Equipe 1,Lorenzo
+1,12,10,Facebook,38000000,4,0:03:10,BE,Fndn. L5,B18,Equipe 2,Mathias
+1,8,10,Televisão,12000000,2,0:03:10,GK,Pre. L3,B13,Equipe 1,Samuel
+1,11,11,Google Ad,20000000,4,0:03:10,GK,Pre. L4,B18,Equipe 3,Sophia
+1,2,12,Televisão,15000000,1,0:03:10,GK,KJI. L4,B13,Equipe 2,Helena
+1,4,5,WhatsApp,19000000,1,0:03:10,BE,Pre. L3,A2,Equipe 3,Alice
+1,17,8,Televisão,15000000,2,0:03:10,GK,Fndn. L1,B12,Equipe 2,Bruno
+0,13,4,Website,0,4,0:03:10,,,B18,Equipe 1,Samuel
+0,27,10,Website,0,2,0:03:10,,,B12,Equipe 1,Lorena
+0,20,10,Google Ad,0,1,0:03:10,,,A2,Equipe 4,Bernardo
+0,18,11,Facebook,0,5,0:03:10,,,C8,Equipe 1,Lorena
+0,13,4,Website,0,4,0:03:10,,,B18,Equipe 1,Samuel
+1,17,1,Google Ad,15000000,1,0:03:12,GK,Pre. L8,A1,Equipe 4,Bernardo
+1,11,2,Televisão,15000000,5,0:03:12,GK,KJI. L4,C8,Equipe 4,Theo
+1,1,5,Google Ad,20000000,3,0:03:12,GK,Pre. L3,A2,Equipe 2,Laura
+1,10,7,Facebook,7000000,4,0:03:12,GK,KJI. L4,C8,Equipe 1,Lorenzo
+1,30,9,Televisão,19000000,1,0:03:12,BE,Fndn. L5,A7,Equipe 2,Helena
+1,28,9,Google Ad,11000000,2,0:03:12,CNI,Pre. L3,A7,Equipe 2,Heitor
+1,22,9,Televisão,25000000,3,0:03:12,GK,KJI. L4,B12,Equipe 3,João
+1,11,9,Televisão,12000000,3,0:03:12,GK,KJI. L4,C8,Equipe 2,Mathias
+1,30,9,WhatsApp,15000000,5,0:03:12,GK,Fndn. L5,C8,Equipe 2,Laura
+1,2,10,Google Ad,21000000,1,0:03:12,GK,Pre. L2,A1,Equipe 3,Sophia
+1,25,10,Facebook,25000000,2,0:03:12,GK,Fndn. L1,A1,Equipe 1,Lucas
+1,28,10,Youtube,7000000,2,0:03:12,GK,Pre. L8,C8,Equipe 2,Heitor
+1,22,10,Facebook,15000000,2,0:03:12,GK,Fndn. L5,B18,Equipe 3,Sophia
+1,25,10,Google Ad,12000000,1,0:03:12,GK,Fndn. L5,B18,Equipe 3,João
+1,29,10,Google Ad,12000000,1,0:03:12,GK,Pre. L8,C8,Equipe 2,Heitor
+1,20,11,WhatsApp,38000000,4,0:03:12,FC,KJI. L4,B12,Equipe 4,Bernardo
+1,9,11,Facebook,25000000,2,0:03:12,GK,Fndn. L3,A2,Equipe 4,Theo
+1,17,12,Televisão,11000000,1,0:03:12,CNI,Pre. L4,A7,Equipe 2,Heitor
+1,10,12,Google Ad,12000000,4,0:03:12,GK,Fndn. L1,A7,Equipe 2,Laura
+1,24,12,Google Ad,12000000,2,0:03:12,GK,Fndn. L5,B12,Equipe 3,Sophia
+1,20,12,WhatsApp,20000000,4,0:03:12,GK,Fndn. L1,B18,Equipe 3,João
+1,17,1,Google Ad,15000000,1,0:03:12,GK,Pre. L8,A1,Equipe 4,Bernardo
+1,11,2,Televisão,15000000,5,0:03:12,GK,KJI. L4,C8,Equipe 4,Theo
+1,1,5,Google Ad,20000000,3,0:03:12,GK,Pre. L3,A2,Equipe 2,Laura
+1,10,7,Facebook,7000000,4,0:03:12,GK,KJI. L4,C8,Equipe 1,Lorenzo
+0,21,2,Youtube,0,2,0:03:12,,,B12,Equipe 1,Lorenzo
+0,16,3,Website,0,5,0:03:12,,,A4,Equipe 1,Lorenzo
+0,25,9,Website,0,1,0:03:12,,,A1,Equipe 1,Lucas
+0,7,12,Televisão,0,1,0:03:12,,,A2,Equipe 1,Davi
+0,23,12,Facebook,0,5,0:03:12,,,B13,Equipe 2,Helena
+0,21,2,Youtube,0,2,0:03:12,,,B12,Equipe 1,Lorenzo
+0,16,3,Website,0,5,0:03:12,,,A4,Equipe 1,Lorenzo
+1,30,8,Website,25000000,1,0:03:14,GK,Pre. L4,B13,Equipe 2,Heitor
+1,25,9,Televisão,20000000,2,0:03:14,CNI,KJI. L4,C8,Equipe 1,Lucas
+1,9,9,Website,7000000,2,0:03:14,GK,Fndn. L5,B12,Equipe 2,Heitor
+1,29,10,Google Ad,12000000,1,0:03:14,GK,Pre. L3,A1,Equipe 3,Alice
+1,13,10,Website,12000000,2,0:03:14,GK,KJI. L4,A2,Equipe 4,Theo
+1,29,10,Facebook,12000000,1,0:03:14,GK,Pre. L2,B18,Equipe 3,Sophia
+1,1,11,Website,38000000,4,0:03:14,BE,KJI. L4,A1,Equipe 1,Davi
+1,22,11,Televisão,20000000,5,0:03:14,GK,Fndn. L1,B12,Equipe 1,Lorenzo
+1,1,12,Televisão,21000000,2,0:03:14,GK,Pre. L2,A4,Equipe 1,Samuel
+1,15,12,Website,15000000,2,0:03:14,GK,Fndn. L5,A7,Equipe 1,Lorena
+0,20,3,Televisão,0,2,0:03:14,,,C8,Equipe 4,Theo
+0,10,12,Website,0,4,0:03:14,,,B12,Equipe 1,Samuel
+0,20,12,Televisão,0,1,0:03:14,,,A2,Equipe 2,Mathias
+0,20,3,Televisão,0,2,0:03:14,,,C8,Equipe 4,Theo
+1,12,1,Televisão,25000000,1,0:03:16,GK,Pre. L8,A1,Equipe 2,Laura
+1,1,6,Televisão,20000000,4,0:03:16,CNI,Fndn. L1,A2,Equipe 4,Bernardo
+1,28,6,Google Ad,15000000,2,0:03:16,GK,Fndn. L5,B18,Equipe 4,Bernardo
+1,3,9,Televisão,12000000,1,0:03:16,GK,Fndn. L5,A1,Equipe 2,Heitor
+1,28,10,WhatsApp,38000000,2,0:03:16,BE,Fndn. L5,B13,Equipe 1,Lorena
+1,28,10,Televisão,19000000,1,0:03:16,BE,KJI. L4,B18,Equipe 1,Lorenzo
+1,23,10,Google Ad,10000000,2,0:03:16,GK,KJI. L4,B13,Equipe 1,Lorenzo
+1,26,10,Facebook,7000000,2,0:03:16,GK,Fndn. L5,A2,Equipe 2,Helena
+1,1,10,WhatsApp,11000000,3,0:03:16,GK,KJI. L4,A4,Equipe 3,João
+1,12,11,Google Ad,25000000,4,0:03:16,GK,Pre. L8,B12,Equipe 2,Helena
+1,12,1,Televisão,25000000,1,0:03:16,GK,Pre. L8,A1,Equipe 2,Laura
+1,1,6,Televisão,20000000,4,0:03:16,CNI,Fndn. L1,A2,Equipe 4,Bernardo
+1,28,6,Google Ad,15000000,2,0:03:16,GK,Fndn. L5,B18,Equipe 4,Bernardo
+0,9,6,Televisão,0,3,0:03:16,,,B12,Equipe 1,Samuel
+0,17,9,Website,0,2,0:03:16,,,C8,Equipe 3,Sophia
+0,11,11,Youtube,0,3,0:03:16,,,A4,Equipe 2,Heitor
+0,9,6,Televisão,0,3,0:03:16,,,B12,Equipe 1,Samuel
+1,3,8,Facebook,19000000,2,0:03:17,BE,Fndn. L3,B12,Equipe 4,Theo
+1,30,8,Facebook,12000000,2,0:03:17,GK,Fndn. L5,A1,Equipe 2,Helena
+1,21,9,Televisão,15000000,1,0:03:17,GK,Fndn. L5,A2,Equipe 3,João
+1,31,10,WhatsApp,15000000,2,0:03:17,GK,KJI. L4,A7,Equipe 4,Bernardo
+1,27,10,Televisão,12000000,5,0:03:17,GK,Pre. L8,B18,Equipe 1,Arthur
+1,30,11,Televisão,20000000,2,0:03:17,GK,KJI. L4,A4,Equipe 4,Theo
+1,20,11,Televisão,15000000,5,0:03:17,GK,Fndn. L5,B12,Equipe 1,Lucas
+1,4,11,WhatsApp,7000000,2,0:03:17,GK,Fndn. L1,B13,Equipe 2,Heitor
+1,3,8,Facebook,19000000,2,0:03:17,BE,Fndn. L3,B12,Equipe 4,Theo
+1,30,8,Facebook,12000000,2,0:03:17,GK,Fndn. L5,A1,Equipe 2,Helena
+0,14,10,Google Ad,0,4,0:03:17,,,B13,Equipe 1,Lorenzo
+0,5,10,Website,0,1,0:03:17,,,C8,Equipe 2,Mathias
+0,2,12,Google Ad,0,3,0:03:17,,,A1,Equipe 1,Lorenzo
+0,30,12,WhatsApp,0,2,0:03:17,,,A1,Equipe 3,Sophia
+0,10,12,Website,0,1,0:03:17,,,A2,Equipe 3,Alice
+1,1,1,Google Ad,7000000,3,0:03:30,GK,Fndn. L6,B18,Equipe 1,Davi
+1,11,2,WhatsApp,20000000,2,0:03:30,CNI,Fndn. L5,C8,Equipe 2,Mathias
+1,25,8,Televisão,15000000,1,0:03:30,GK,KJI. L4,B13,Equipe 4,Bernardo
+1,17,9,Youtube,11000000,4,0:03:30,GK,KJI. L4,B13,Equipe 4,Bernardo
+1,30,9,Televisão,25000000,3,0:03:30,GK,KJI. L4,A2,Equipe 1,Davi
+1,22,10,Televisão,38000000,6,0:03:30,BE,Fndn. L5,B12,Equipe 1,Samuel
+1,7,10,Televisão,10000000,5,0:03:30,GK,Fndn. L5,A1,Equipe 2,Helena
+1,8,10,Televisão,12000000,3,0:03:30,GK,Pre. L3,A1,Equipe 3,Sophia
+1,19,10,Website,20000000,1,0:03:30,GK,Pre. L3,A4,Equipe 2,Bruno
+1,28,10,WhatsApp,12000000,3,0:03:30,GK,Pre. L2,B12,Equipe 3,João
+1,5,11,Televisão,19000000,2,0:03:30,BE,Pre. L8,B13,Equipe 2,Heitor
+1,1,1,Google Ad,7000000,3,0:03:30,GK,Fndn. L6,B18,Equipe 1,Davi
+1,11,2,WhatsApp,20000000,2,0:03:30,CNI,Fndn. L5,C8,Equipe 2,Mathias
+1,25,8,Televisão,15000000,1,0:03:30,GK,KJI. L4,B13,Equipe 4,Bernardo
+0,12,9,Facebook,0,1,0:03:30,,,A1,Equipe 1,Lorena
+0,14,12,Website,0,4,0:03:30,,,A1,Equipe 2,Helena
+1,11,2,Televisão,15000000,1,0:03:40,GK,KJI. L4,A2,Equipe 4,Bernardo
+1,13,7,WhatsApp,15000000,5,0:03:40,GK,Pre. L2,C8,Equipe 3,João
+1,10,8,Televisão,12000000,2,0:03:40,GK,Fndn. L5,B18,Equipe 2,Laura
+1,19,8,Google Ad,15000000,2,0:03:40,GK,KJI. L4,A4,Equipe 3,João
+1,11,9,Televisão,21000000,5,0:03:40,GK,Pre. L3,A4,Equipe 2,Bruno
+1,30,9,Facebook,20000000,4,0:03:40,GK,Fndn. L6,B12,Equipe 2,Heitor
+1,30,10,Website,12000000,1,0:03:40,GK,Pre. L3,B18,Equipe 3,João
+1,17,11,Facebook,11000000,1,0:03:40,CNI,Fndn. L5,A4,Equipe 4,Bernardo
+1,16,11,WhatsApp,25000000,1,0:03:40,GK,Fndn. L5,B13,Equipe 2,Laura
+1,27,12,Facebook,38000000,1,0:03:40,BE,KJI. L4,A1,Equipe 1,Lucas
+1,11,2,Televisão,15000000,1,0:03:40,GK,KJI. L4,A2,Equipe 4,Bernardo
+1,13,7,WhatsApp,15000000,5,0:03:40,GK,Pre. L2,C8,Equipe 3,João
+1,10,8,Televisão,12000000,2,0:03:40,GK,Fndn. L5,B18,Equipe 2,Laura
+1,19,8,Google Ad,15000000,2,0:03:40,GK,KJI. L4,A4,Equipe 3,João
+0,23,9,Facebook,0,1,0:03:40,,,A4,Equipe 2,Heitor
+0,19,10,Facebook,0,4,0:03:40,,,B12,Equipe 1,Lucas
+0,27,11,Televisão,0,1,0:03:40,,,A1,Equipe 1,Lorena
+1,15,2,Google Ad,12000000,4,0:04:00,GK,Fndn. L5,A1,Equipe 1,Lorenzo
+1,4,7,Website,19000000,2,0:04:00,BE,Pre. L2,B13,Equipe 3,Alice
+1,11,9,Televisão,38000000,1,0:04:00,FC,Fndn. L1,A4,Equipe 2,Bruno
+1,23,9,Facebook,7000000,3,0:04:00,GK,KJI. L4,B12,Equipe 4,Theo
+1,8,10,Website,20000000,4,0:04:00,CNI,KJI. L4,A7,Equipe 2,Helena
+1,8,10,Website,15000000,1,0:04:00,GK,Pre. L2,A2,Equipe 1,Samuel
+1,29,10,Televisão,12000000,1,0:04:00,GK,Pre. L4,B18,Equipe 1,Lorena
+1,25,10,Facebook,25000000,3,0:04:00,GK,Fndn. L5,C8,Equipe 3,João
+1,22,11,Website,12000000,4,0:04:00,GK,Fndn. L1,B13,Equipe 2,Laura
+1,15,2,Google Ad,12000000,4,0:04:00,GK,Fndn. L5,A1,Equipe 1,Lorenzo
+1,4,7,Website,19000000,2,0:04:00,BE,Pre. L2,B13,Equipe 3,Alice
+0,25,10,Facebook,0,5,0:04:00,,,A2,Equipe 3,Sophia
+0,26,11,Televisão,0,2,0:04:00,,,B12,Equipe 2,Heitor
+0,26,11,Website,0,3,0:04:00,,,C8,Equipe 2,Heitor
+0,10,12,Facebook,0,3,0:04:00,,,B12,Equipe 4,Theo
+1,16,1,Facebook,12000000,1,0:04:40,GK,Fndn. L5,A4,Equipe 2,Heitor
+1,11,2,Televisão,12000000,4,0:04:40,GK,KJI. L4,B12,Equipe 4,Theo
+1,1,5,Facebook,12000000,2,0:04:40,GK,Fndn. L5,C8,Equipe 4,Bernardo
+1,9,9,Facebook,38000000,5,0:04:40,BE,KJI. L4,B18,Equipe 2,Helena
+1,11,9,Facebook,12000000,5,0:04:40,GK,Fndn. L6,A7,Equipe 1,Lucas
+1,22,9,Google Ad,15000000,4,0:04:40,GK,Pre. L3,A1,Equipe 3,João
+1,30,9,Google Ad,15000000,3,0:04:40,GK,Fndn. L5,B13,Equipe 2,Helena
+1,10,10,Website,11000000,2,0:04:40,CNI,KJI. L4,A1,Equipe 2,Bruno
+1,24,10,Televisão,20000000,1,0:04:40,CNI,KJI. L4,A1,Equipe 4,Theo
+1,26,10,Website,20000000,2,0:04:40,GK,KJI. L4,A1,Equipe 1,Davi
+1,1,10,Facebook,20000000,2,0:04:40,GK,Fndn. L1,A2,Equipe 1,Lucas
+1,30,10,Google Ad,7000000,3,0:04:40,GK,Pre. L2,A2,Equipe 3,Sophia
+1,8,10,Facebook,25000000,4,0:04:40,GK,Pre. L8,A7,Equipe 3,João
+1,11,10,Televisão,15000000,3,0:04:40,GK,Fndn. L1,B13,Equipe 1,Lucas
+1,11,10,WhatsApp,15000000,1,0:04:40,GK,Fndn. L3,B18,Equipe 1,Davi
+1,9,11,WhatsApp,19000000,5,0:04:40,BE,Fndn. L5,C8,Equipe 3,Sophia
+1,22,11,Facebook,19000000,1,0:04:40,BE,Pre. L4,C8,Equipe 2,Helena
+1,12,11,Website,20000000,2,0:04:40,GK,Fndn. L5,A2,Equipe 1,Lorenzo
+1,22,11,Facebook,15000000,1,0:04:40,GK,KJI. L4,B18,Equipe 1,Lucas
+1,16,1,Facebook,12000000,1,0:04:40,GK,Fndn. L5,A4,Equipe 2,Heitor
+1,11,2,Televisão,12000000,4,0:04:40,GK,KJI. L4,B12,Equipe 4,Theo
+1,1,5,Facebook,12000000,2,0:04:40,GK,Fndn. L5,C8,Equipe 4,Bernardo
+0,15,3,WhatsApp,0,2,0:04:40,,,B12,Equipe 2,Heitor
+0,11,5,Televisão,0,5,0:04:40,,,A2,Equipe 4,Bernardo
+0,14,8,Website,0,4,0:04:40,,,B12,Equipe 1,Davi
+0,24,9,Youtube,0,3,0:04:40,,,A7,Equipe 1,Lucas
+0,1,10,Televisão,0,1,0:04:40,,,B12,Equipe 2,Laura
+0,19,12,Facebook,0,2,0:04:40,,,A1,Equipe 4,Bernardo
+0,15,3,WhatsApp,0,2,0:04:40,,,B12,Equipe 2,Heitor
+0,11,5,Televisão,0,5,0:04:40,,,A2,Equipe 4,Bernardo
+1,19,8,Website,7000000,5,0:04:45,GK,Pre. L8,B18,Equipe 1,Lorenzo
+1,5,9,Facebook,15000000,3,0:04:45,GK,KJI. L4,A2,Equipe 4,Bernardo
+1,11,10,Televisão,38000000,1,0:04:45,BE,KJI. L4,A4,Equipe 1,Lorenzo
+1,1,10,Google Ad,15000000,1,0:04:45,GK,Fndn. L1,A1,Equipe 4,Theo
+1,21,10,Website,20000000,5,0:04:45,GK,Pre. L3,A7,Equipe 2,Helena
+1,27,11,WhatsApp,11000000,3,0:04:45,GK,Pre. L3,B18,Equipe 3,Alice
+1,28,11,WhatsApp,12000000,3,0:04:45,GK,Fndn. L1,C8,Equipe 1,Lorena
+1,11,12,WhatsApp,19000000,1,0:04:45,BE,Fndn. L5,A1,Equipe 1,Samuel
+1,25,12,Televisão,12000000,1,0:04:45,GK,Pre. L3,B12,Equipe 3,Sophia
+1,23,12,Televisão,12000000,1,0:04:45,GK,Pre. L4,B18,Equipe 2,Heitor
+1,19,8,Website,7000000,5,0:04:45,GK,Pre. L8,B18,Equipe 1,Lorenzo
+0,11,1,WhatsApp,0,4,0:04:45,,,A1,Equipe 3,João
+0,19,9,Televisão,0,6,0:04:45,,,A1,Equipe 2,Mathias
+0,18,11,Youtube,0,4,0:04:45,,,C8,Equipe 4,Bernardo
+0,11,1,WhatsApp,0,4,0:04:45,,,A1,Equipe 3,João
+1,13,1,Google Ad,12000000,1,0:04:48,GK,Pre. L3,A1,Equipe 2,Heitor
+1,1,5,Google Ad,20000000,4,0:04:48,CNI,Pre. L4,B12,Equipe 1,Lucas
+1,12,9,Google Ad,10000000,5,0:04:48,GK,Fndn. L3,C8,Equipe 4,Bernardo
+1,13,10,Televisão,19000000,4,0:04:48,BE,Pre. L3,A2,Equipe 2,Helena
+1,8,10,Google Ad,15000000,3,0:04:48,GK,KJI. L4,A4,Equipe 1,Davi
+1,17,11,Televisão,12000000,3,0:04:48,GK,Fndn. L5,A4,Equipe 4,Bernardo
+1,12,11,Website,15000000,1,0:04:48,GK,Fndn. L1,B18,Equipe 2,Laura
+1,16,12,Youtube,25000000,2,0:04:48,GK,KJI. L4,B13,Equipe 3,João
+1,13,1,Google Ad,12000000,1,0:04:48,GK,Pre. L3,A1,Equipe 2,Heitor
+1,1,5,Google Ad,20000000,4,0:04:48,CNI,Pre. L4,B12,Equipe 1,Lucas
+0,12,6,Televisão,0,2,0:04:48,,,A7,Equipe 3,Alice
+0,6,9,Televisão,0,1,0:04:48,,,A2,Equipe 2,Mathias
+0,17,9,Televisão,0,4,0:04:48,,,A7,Equipe 1,Samuel
+0,11,11,Google Ad,0,2,0:04:48,,,B18,Equipe 1,Lorena
+0,12,6,Televisão,0,2,0:04:48,,,A7,Equipe 3,Alice
+1,18,2,Website,20000000,1,0:05:12,GK,Pre. L4,C8,Equipe 3,Alice
+1,11,10,Televisão,38000000,2,0:05:12,BE,Pre. L8,B12,Equipe 4,Bernardo
+1,23,10,Televisão,19000000,2,0:05:12,BE,Pre. L3,A7,Equipe 1,Davi
+1,28,10,Google Ad,7000000,4,0:05:12,GK,Fndn. L1,B12,Equipe 1,Lorena
+1,30,10,Televisão,12000000,1,0:05:12,GK,KJI. L4,B18,Equipe 1,Davi
+1,22,11,Facebook,20000000,2,0:05:12,CNI,KJI. L4,A1,Equipe 2,Helena
+1,1,11,Facebook,25000000,2,0:05:12,GK,Fndn. L5,A4,Equipe 3,João
+1,24,12,Youtube,11000000,4,0:05:12,GK,Pre. L3,A2,Equipe 1,Lorenzo
+1,18,2,Website,20000000,1,0:05:12,GK,Pre. L4,C8,Equipe 3,Alice
+0,3,1,Facebook,0,1,0:05:12,,,B13,Equipe 1,Lorenzo
+0,22,9,WhatsApp,0,6,0:05:12,,,A1,Equipe 1,Lorenzo
+0,5,10,WhatsApp,0,3,0:05:12,,,A1,Equipe 2,Bruno
+0,20,11,Facebook,0,3,0:05:12,,,A7,Equipe 2,Laura
+0,29,11,Facebook,0,2,0:05:12,,,B18,Equipe 4,Bernardo
+0,3,1,Facebook,0,1,0:05:12,,,B13,Equipe 1,Lorenzo
+1,1,5,Youtube,12000000,3,0:05:14,GK,KJI. L4,A2,Equipe 2,Heitor
+1,17,8,Youtube,12000000,4,0:05:14,GK,Fndn. L5,B12,Equipe 3,Sophia
+1,9,9,WhatsApp,25000000,2,0:05:14,GK,Fndn. L3,A2,Equipe 1,Lucas
+1,29,9,Televisão,7000000,4,0:05:14,GK,Fndn. L5,B18,Equipe 3,Alice
+1,11,10,Facebook,38000000,3,0:05:14,BE,Fndn. L1,B12,Equipe 1,Davi
+1,17,10,Website,19000000,2,0:05:14,BE,Pre. L8,B13,Equipe 2,Heitor
+1,4,10,Televisão,15000000,5,0:05:14,GK,Fndn. L5,A4,Equipe 1,Samuel
+1,1,10,WhatsApp,15000000,5,0:05:14,GK,Fndn. L5,A7,Equipe 1,Lorenzo
+1,11,11,Televisão,11000000,1,0:05:14,GK,KJI. L4,A2,Equipe 2,Heitor
+1,4,11,Televisão,12000000,1,0:05:14,GK,Pre. L8,B12,Equipe 4,Theo
+1,1,5,Youtube,12000000,3,0:05:14,GK,KJI. L4,A2,Equipe 2,Heitor
+1,17,8,Youtube,12000000,4,0:05:14,GK,Fndn. L5,B12,Equipe 3,Sophia
+0,11,8,Televisão,0,1,0:05:14,,,A7,Equipe 2,Mathias
+0,12,8,Google Ad,0,1,0:05:14,,,A1,Equipe 2,Heitor
+0,25,10,Google Ad,0,1,0:05:14,,,C8,Equipe 1,Davi
+1,8,1,Facebook,15000000,5,0:05:15,GK,Pre. L3,B13,Equipe 1,Lorenzo
+1,12,6,Facebook,25000000,1,0:05:15,GK,Pre. L4,B12,Equipe 2,Laura
+1,30,9,Facebook,20000000,3,0:05:15,GK,KJI. L4,A4,Equipe 3,Alice
+1,18,11,Google Ad,11000000,1,0:05:15,CNI,Fndn. L1,B18,Equipe 2,Laura
+1,3,11,Website,12000000,4,0:05:15,GK,Fndn. L3,A4,Equipe 1,Lorena
+1,7,11,Website,15000000,5,0:05:15,GK,Pre. L3,A2,Equipe 2,Helena
+1,19,11,Google Ad,15000000,3,0:05:15,GK,Fndn. L5,A1,Equipe 1,Davi
+1,13,12,Televisão,38000000,2,0:05:15,BE,Fndn. L1,A7,Equipe 4,Bernardo
+1,14,12,Website,12000000,2,0:05:15,GK,Pre. L8,B12,Equipe 2,Helena
+1,8,1,Facebook,15000000,5,0:05:15,GK,Pre. L3,B13,Equipe 1,Lorenzo
+1,12,6,Facebook,25000000,1,0:05:15,GK,Pre. L4,B12,Equipe 2,Laura
+0,29,5,Website,0,2,0:05:15,,,A2,Equipe 3,Sophia
+0,5,10,Facebook,0,5,0:05:15,,,B18,Equipe 1,Davi
+0,10,12,Televisão,0,3,0:05:15,,,B13,Equipe 1,Arthur
+0,5,12,Website,0,5,0:05:15,,,C8,Equipe 2,Bruno
+0,29,5,Website,0,2,0:05:15,,,A2,Equipe 3,Sophia
+1,18,6,Televisão,25000000,5,0:06:15,GK,Fndn. L6,A2,Equipe 1,Lucas
+1,12,8,WhatsApp,15000000,4,0:06:15,GK,Pre. L2,B13,Equipe 3,Alice
+1,30,9,Youtube,20000000,5,0:06:15,CNI,KJI. L4,B18,Equipe 4,Theo
+1,16,9,Youtube,12000000,2,0:06:15,GK,Fndn. L5,A4,Equipe 4,Theo
+1,28,9,WhatsApp,12000000,2,0:06:15,GK,Fndn. L3,A2,Equipe 1,Lorenzo
+1,7,10,Televisão,10000000,1,0:06:15,GK,KJI. L4,A1,Equipe 3,Sophia
+1,9,10,Televisão,7000000,4,0:06:15,GK,Fndn. L5,A4,Equipe 2,Helena
+1,18,10,WhatsApp,15000000,1,0:06:15,GK,Pre. L3,B12,Equipe 2,Helena
+1,4,11,Televisão,38000000,5,0:06:15,BE,Fndn. L5,A7,Equipe 2,Helena
+1,23,11,Televisão,12000000,2,0:06:15,GK,Fndn. L1,B12,Equipe 2,Bruno
+1,31,12,Facebook,19000000,3,0:06:15,BE,Pre. L8,A1,Equipe 1,Lorenzo
+1,18,6,Televisão,25000000,5,0:06:15,GK,Fndn. L6,A2,Equipe 1,Lucas
+0,15,9,Facebook,0,1,0:06:15,,,B12,Equipe 1,Lorenzo
+0,15,12,Website,0,1,0:06:15,,,C8,Equipe 1,Davi
+1,1,5,Televisão,25000000,1,0:06:18,GK,KJI. L4,C8,Equipe 1,Lorena
+1,7,7,WhatsApp,19000000,6,0:06:18,BE,Fndn. L5,A7,Equipe 1,Arthur
+1,27,9,Facebook,38000000,3,0:06:18,BE,Pre. L3,A2,Equipe 2,Helena
+1,12,9,Televisão,7000000,1,0:06:18,GK,Pre. L3,C8,Equipe 2,Bruno
+1,11,10,Televisão,12000000,3,0:06:18,GK,Fndn. L6,A2,Equipe 4,Theo
+1,29,10,Televisão,12000000,5,0:06:18,GK,Pre. L4,A2,Equipe 4,Theo
+1,31,10,WhatsApp,15000000,1,0:06:18,GK,Fndn. L3,C8,Equipe 2,Helena
+1,22,11,Facebook,12000000,6,0:06:18,GK,KJI. L4,A2,Equipe 3,João
+1,1,11,Google Ad,15000000,3,0:06:18,GK,Fndn. L5,B12,Equipe 2,Laura
+1,25,12,Facebook,20000000,4,0:06:18,CNI,Pre. L3,A1,Equipe 1,Lorenzo
+1,1,5,Televisão,25000000,1,0:06:18,GK,KJI. L4,C8,Equipe 1,Lorena
+1,7,7,WhatsApp,19000000,6,0:06:18,BE,Fndn. L5,A7,Equipe 1,Arthur
+0,7,10,Facebook,0,1,0:06:18,,,A1,Equipe 1,Lucas
+0,16,11,Televisão,0,1,0:06:18,,,B18,Equipe 3,Sophia
+0,11,12,Facebook,0,2,0:06:18,,,A4,Equipe 2,Heitor
+1,17,2,WhatsApp,15000000,2,0:06:20,GK,Pre. L4,A1,Equipe 3,João
+1,27,10,Facebook,19000000,2,0:06:20,BE,KJI. L4,A2,Equipe 2,Heitor
+1,22,10,Televisão,38000000,1,0:06:20,BE,Pre. L3,C8,Equipe 4,Bernardo
+1,31,10,Facebook,20000000,1,0:06:20,CNI,Fndn. L6,B12,Equipe 1,Lorena
+1,10,10,Televisão,25000000,3,0:06:20,GK,Fndn. L5,A1,Equipe 2,Heitor
+1,29,10,Televisão,10000000,1,0:06:20,GK,Fndn. L5,C8,Equipe 2,Heitor
+1,22,11,Facebook,15000000,5,0:06:20,GK,KJI. L4,B18,Equipe 1,Arthur
+1,17,12,Youtube,12000000,1,0:06:20,GK,Pre. L3,B18,Equipe 1,Lucas
+1,17,2,WhatsApp,15000000,2,0:06:20,GK,Pre. L4,A1,Equipe 3,João
+0,13,9,Facebook,0,1,0:06:20,,,A7,Equipe 4,Theo
+0,5,10,Google Ad,0,5,0:06:20,,,A4,Equipe 2,Heitor
+0,19,11,Facebook,0,2,0:06:20,,,A1,Equipe 2,Heitor
+0,28,11,Facebook,0,4,0:06:20,,,B12,Equipe 4,Theo
+0,10,12,Google Ad,0,5,0:06:20,,,B18,Equipe 1,Lorena
+1,1,4,WhatsApp,12000000,1,0:06:30,GK,Pre. L2,B13,Equipe 4,Theo
+1,1,4,Website,12000000,1,0:06:30,GK,Fndn. L1,B18,Equipe 2,Heitor
+1,1,4,Facebook,25000000,2,0:06:30,GK,Pre. L2,B18,Equipe 1,Lorenzo
+1,12,6,Youtube,11000000,1,0:06:30,CNI,Pre. L8,A1,Equipe 2,Heitor
+1,27,8,WhatsApp,15000000,4,0:06:30,GK,Fndn. L1,B12,Equipe 1,Lucas
+1,16,8,Youtube,20000000,3,0:06:30,GK,Fndn. L6,C8,Equipe 1,Davi
+1,24,9,Televisão,15000000,5,0:06:30,GK,KJI. L4,A1,Equipe 2,Laura
+1,30,9,Google Ad,12000000,4,0:06:30,GK,Fndn. L5,A1,Equipe 1,Davi
+1,11,9,Televisão,21000000,1,0:06:30,GK,Fndn. L5,C8,Equipe 3,João
+1,8,10,Website,19000000,3,0:06:30,BE,Fndn. L5,A2,Equipe 2,Helena
+1,26,10,Televisão,38000000,4,0:06:30,BE,KJI. L4,A2,Equipe 4,Bernardo
+1,10,10,Televisão,11000000,5,0:06:30,CNI,Fndn. L3,B12,Equipe 4,Theo
+1,31,10,WhatsApp,21000000,5,0:06:30,GK,Fndn. L1,A7,Equipe 2,Heitor
+1,11,10,Facebook,25000000,2,0:06:30,GK,Fndn. L1,A2,Equipe 1,Lorenzo
+1,5,10,Website,20000000,4,0:06:30,GK,Pre. L4,A7,Equipe 1,Lucas
+1,28,10,Google Ad,7000000,5,0:06:30,GK,KJI. L4,B12,Equipe 3,Sophia
+1,4,11,Website,38000000,4,0:06:30,BE,Pre. L4,A7,Equipe 2,Helena
+1,15,11,Website,19000000,7,0:06:30,BE,Pre. L2,C8,Equipe 3,Sophia
+1,22,11,Google Ad,20000000,3,0:06:30,CNI,Pre. L3,B18,Equipe 2,Laura
+1,3,11,Website,12000000,2,0:06:30,GK,KJI. L4,B13,Equipe 1,Lucas
+1,15,11,Televisão,12000000,3,0:06:30,GK,Fndn. L3,A1,Equipe 1,Lorenzo
+1,3,11,Televisão,12000000,3,0:06:30,GK,Fndn. L5,A2,Equipe 2,Helena
+1,11,11,Google Ad,15000000,3,0:06:30,GK,Pre. L4,A2,Equipe 3,Sophia
+1,22,11,Youtube,15000000,4,0:06:30,GK,KJI. L4,A2,Equipe 1,Lorena
+1,20,11,Televisão,15000000,6,0:06:30,GK,Fndn. L3,A7,Equipe 4,Bernardo
+1,30,11,Youtube,7000000,3,0:06:30,GK,KJI. L4,B18,Equipe 2,Helena
+1,2,12,Website,12000000,3,0:06:30,GK,Fndn. L1,A1,Equipe 2,Helena
+1,17,12,Televisão,11000000,4,0:06:30,GK,Pre. L2,B12,Equipe 1,Davi
+1,24,12,Facebook,25000000,6,0:06:30,GK,Fndn. L3,C8,Equipe 1,Lorena
+1,28,12,Youtube,20000000,2,0:06:30,GK,Fndn. L1,C8,Equipe 2,Helena
+1,1,4,WhatsApp,12000000,1,0:06:30,GK,Pre. L2,B13,Equipe 4,Theo
+1,1,4,Website,12000000,1,0:06:30,GK,Fndn. L1,B18,Equipe 2,Heitor
+1,1,4,Facebook,25000000,2,0:06:30,GK,Pre. L2,B18,Equipe 1,Lorenzo
+1,12,6,Youtube,11000000,1,0:06:30,CNI,Pre. L8,A1,Equipe 2,Heitor
+0,19,3,Televisão,0,3,0:06:30,,,B13,Equipe 4,Theo
+0,3,7,Televisão,0,1,0:06:30,,,B18,Equipe 2,Helena
+0,23,9,WhatsApp,0,3,0:06:30,,,C8,Equipe 1,Davi
+0,5,10,Televisão,0,1,0:06:30,,,A1,Equipe 1,Lorena
+0,10,10,Google Ad,0,6,0:06:30,,,B12,Equipe 3,João
+0,24,10,Google Ad,0,3,0:06:30,,,B13,Equipe 4,Bernardo
+0,29,12,WhatsApp,0,3,0:06:30,,,B12,Equipe 2,Heitor
+0,30,12,Website,0,1,0:06:30,,,B13,Equipe 1,Arthur
+0,21,12,Televisão,0,2,0:06:30,,,B18,Equipe 2,Heitor
+0,19,3,Televisão,0,3,0:06:30,,,B13,Equipe 4,Theo
+0,3,7,Televisão,0,1,0:06:30,,,B18,Equipe 2,Helena
+1,19,2,Website,12000000,3,0:07:10,GK,Pre. L8,B18,Equipe 2,Laura
+1,22,9,Youtube,15000000,2,0:07:10,GK,Fndn. L3,B12,Equipe 3,Sophia
+1,25,10,Televisão,19000000,4,0:07:10,BE,Pre. L4,A1,Equipe 4,Theo
+1,31,10,Televisão,11000000,1,0:07:10,GK,Fndn. L1,A2,Equipe 2,Heitor
+1,29,10,Google Ad,12000000,3,0:07:10,GK,Fndn. L1,A4,Equipe 2,Heitor
+1,2,11,Google Ad,38000000,1,0:07:10,BE,KJI. L4,A1,Equipe 3,Sophia
+1,22,11,Youtube,25000000,3,0:07:10,GK,Pre. L3,B18,Equipe 2,Laura
+1,29,12,Televisão,7000000,1,0:07:10,GK,Fndn. L3,A1,Equipe 1,Lorena
+1,19,2,Website,12000000,3,0:07:10,GK,Pre. L8,B18,Equipe 2,Laura
+0,28,9,WhatsApp,0,1,0:07:10,,,C8,Equipe 1,Samuel
+0,5,10,WhatsApp,0,2,0:07:10,,,A7,Equipe 1,Lorenzo
+0,29,10,Facebook,0,5,0:07:10,,,B13,Equipe 4,Theo
+0,30,11,Facebook,0,1,0:07:10,,,A2,Equipe 1,Samuel
+0,15,11,Google Ad,0,4,0:07:10,,,C8,Equipe 1,Samuel
+1,14,1,Facebook,20000000,6,0:07:14,GK,Pre. L2,A2,Equipe 1,Lorenzo
+1,11,2,Televisão,19000000,3,0:07:14,BE,Fndn. L1,B18,Equipe 2,Heitor
+1,13,5,Facebook,12000000,1,0:07:14,GK,Fndn. L1,C8,Equipe 2,Heitor
+1,28,8,Facebook,38000000,5,0:07:14,BE,Pre. L3,C8,Equipe 1,Davi
+1,30,9,Facebook,7000000,1,0:07:14,GK,Fndn. L3,A1,Equipe 3,Sophia
+1,20,9,Facebook,12000000,2,0:07:14,GK,KJI. L4,B12,Equipe 1,Davi
+1,22,10,Televisão,12000000,2,0:07:14,GK,Fndn. L5,B13,Equipe 2,Laura
+1,17,11,WhatsApp,15000000,2,0:07:14,GK,Pre. L8,B13,Equipe 1,Samuel
+1,20,11,WhatsApp,11000000,2,0:07:14,GK,Fndn. L1,A1,Equipe 2,Heitor
+1,22,11,Televisão,25000000,4,0:07:14,GK,Pre. L8,A7,Equipe 2,Laura
+1,3,11,Facebook,15000000,3,0:07:14,GK,Pre. L4,C8,Equipe 1,Davi
+1,14,1,Facebook,20000000,6,0:07:14,GK,Pre. L2,A2,Equipe 1,Lorenzo
+1,11,2,Televisão,19000000,3,0:07:14,BE,Fndn. L1,B18,Equipe 2,Heitor
+1,13,5,Facebook,12000000,1,0:07:14,GK,Fndn. L1,C8,Equipe 2,Heitor
+1,28,8,Facebook,38000000,5,0:07:14,BE,Pre. L3,C8,Equipe 1,Davi
+0,13,3,Google Ad,0,2,0:07:14,,,B18,Equipe 3,João
+0,11,11,Facebook,0,2,0:07:14,,,A2,Equipe 4,Theo
+0,13,3,Google Ad,0,2,0:07:14,,,B18,Equipe 3,João
+1,11,1,Televisão,38000000,4,0:07:30,BE,Pre. L2,C8,Equipe 4,Bernardo
+1,6,1,Facebook,20000000,3,0:07:30,GK,Fndn. L5,B13,Equipe 2,Heitor
+1,1,4,Televisão,12000000,1,0:07:30,GK,KJI. L4,B13,Equipe 3,João
+1,10,5,WhatsApp,38000000,2,0:07:30,FC,Pre. L2,B12,Equipe 2,Laura
+1,1,5,Youtube,15000000,1,0:07:30,GK,Pre. L3,B12,Equipe 1,Lorena
+1,30,9,Facebook,7000000,2,0:07:30,GK,Fndn. L5,B12,Equipe 1,Lucas
+1,27,9,Televisão,7000000,1,0:07:30,GK,Fndn. L6,C8,Equipe 4,Bernardo
+1,15,10,Facebook,19000000,2,0:07:30,BE,KJI. L4,A1,Equipe 3,João
+1,5,10,Televisão,15000000,6,0:07:30,GK,Fndn. L6,A1,Equipe 4,Theo
+1,6,10,Google Ad,20000000,6,0:07:30,GK,Fndn. L5,A1,Equipe 1,Lorena
+1,12,10,Youtube,12000000,2,0:07:30,GK,KJI. L4,A4,Equipe 3,Sophia
+1,28,10,Website,12000000,2,0:07:30,GK,KJI. L4,A7,Equipe 1,Arthur
+1,8,10,Televisão,12000000,3,0:07:30,GK,Fndn. L5,A2,Equipe 2,Bruno
+1,7,10,WhatsApp,12000000,3,0:07:30,GK,Pre. L3,A4,Equipe 1,Lucas
+1,9,10,Google Ad,15000000,1,0:07:30,GK,Fndn. L5,B18,Equipe 4,Theo
+1,16,11,Website,19000000,1,0:07:30,BE,KJI. L4,A2,Equipe 2,Helena
+1,22,11,Website,11000000,3,0:07:30,GK,KJI. L4,A1,Equipe 3,João
+1,5,11,Televisão,15000000,2,0:07:30,GK,Pre. L4,A4,Equipe 4,Bernardo
+1,29,11,WhatsApp,15000000,4,0:07:30,GK,KJI. L4,B13,Equipe 1,Lucas
+1,12,11,Televisão,15000000,2,0:07:30,GK,KJI. L4,B18,Equipe 1,Davi
+1,11,1,Televisão,38000000,4,0:07:30,BE,Pre. L2,C8,Equipe 4,Bernardo
+1,6,1,Facebook,20000000,3,0:07:30,GK,Fndn. L5,B13,Equipe 2,Heitor
+1,1,4,Televisão,12000000,1,0:07:30,GK,KJI. L4,B13,Equipe 3,João
+1,10,5,WhatsApp,38000000,2,0:07:30,FC,Pre. L2,B12,Equipe 2,Laura
+1,1,5,Youtube,15000000,1,0:07:30,GK,Pre. L3,B12,Equipe 1,Lorena
+0,7,7,Website,0,3,0:07:30,,,C8,Equipe 3,João
+0,12,8,Google Ad,0,2,0:07:30,,,A1,Equipe 2,Helena
+0,1,9,Facebook,0,4,0:07:30,,,A1,Equipe 1,Lucas
+0,29,9,WhatsApp,0,2,0:07:30,,,A4,Equipe 2,Laura
+0,26,10,WhatsApp,0,3,0:07:30,,,A1,Equipe 1,Davi
+0,30,12,Google Ad,0,7,0:07:30,,,B12,Equipe 2,Laura
+0,7,7,Website,0,3,0:07:30,,,C8,Equipe 3,João
+1,16,2,WhatsApp,11000000,3,0:08:00,GK,Pre. L8,A1,Equipe 1,Davi
+1,13,9,Youtube,10000000,2,0:08:00,GK,KJI. L4,A2,Equipe 1,Davi
+1,16,9,Televisão,12000000,2,0:08:00,GK,Fndn. L1,C8,Equipe 2,Heitor
+1,26,10,Facebook,38000000,5,0:08:00,BE,Fndn. L5,B18,Equipe 2,Helena
+1,9,10,Website,20000000,1,0:08:00,CNI,Fndn. L5,B12,Equipe 2,Mathias
+1,28,10,Website,7000000,2,0:08:00,GK,Fndn. L5,B18,Equipe 2,Laura
+1,30,10,Facebook,15000000,4,0:08:00,GK,Pre. L8,A2,Equipe 1,Lucas
+1,5,11,Website,25000000,2,0:08:00,GK,KJI. L4,B13,Equipe 4,Theo
+1,16,2,WhatsApp,11000000,3,0:08:00,GK,Pre. L8,A1,Equipe 1,Davi
+0,12,9,Facebook,0,3,0:08:00,,,A1,Equipe 4,Bernardo
+0,1,10,Google Ad,0,1,0:08:00,,,A1,Equipe 4,Bernardo
+0,5,10,Google Ad,0,4,0:08:00,,,B12,Equipe 3,João
+0,27,11,Televisão,0,1,0:08:00,,,A1,Equipe 2,Laura
+0,16,11,Televisão,0,1,0:08:00,,,A4,Equipe 1,Arthur
+1,11,2,Facebook,20000000,1,0:08:10,GK,Pre. L3,A7,Equipe 1,Lorena
+1,1,5,WhatsApp,12000000,5,0:08:10,GK,Fndn. L3,A4,Equipe 4,Theo
+1,10,9,WhatsApp,38000000,2,0:08:10,FC,Pre. L2,B18,Equipe 1,Lucas
+1,11,9,Televisão,12000000,4,0:08:10,GK,Fndn. L1,A1,Equipe 2,Helena
+1,12,9,WhatsApp,15000000,4,0:08:10,GK,Pre. L8,A1,Equipe 2,Helena
+1,27,10,Facebook,19000000,1,0:08:10,BE,KJI. L4,A2,Equipe 1,Davi
+1,30,10,WhatsApp,11000000,3,0:08:10,CNI,Fndn. L1,B12,Equipe 2,Heitor
+1,27,10,Website,25000000,2,0:08:10,GK,Fndn. L1,A4,Equipe 2,Laura
+1,9,10,Televisão,15000000,4,0:08:10,GK,Pre. L3,A2,Equipe 4,Bernardo
+1,22,11,Youtube,15000000,1,0:08:10,GK,Fndn. L5,B18,Equipe 4,Theo
+1,23,12,WhatsApp,21000000,1,0:08:10,GK,Pre. L4,B13,Equipe 1,Davi
+1,11,2,Facebook,20000000,1,0:08:10,GK,Pre. L3,A7,Equipe 1,Lorena
+1,1,5,WhatsApp,12000000,5,0:08:10,GK,Fndn. L3,A4,Equipe 4,Theo
+0,18,3,Televisão,0,1,0:08:10,,,A7,Equipe 2,Helena
+0,2,7,Televisão,0,4,0:08:10,,,C8,Equipe 3,Sophia
+0,18,3,Televisão,0,1,0:08:10,,,A7,Equipe 2,Helena
+0,2,7,Televisão,0,4,0:08:10,,,C8,Equipe 3,Sophia
+1,13,1,Televisão,15000000,5,0:08:12,GK,Fndn. L3,B18,Equipe 2,Laura
+1,11,2,Website,38000000,2,0:08:12,BE,KJI. L4,B13,Equipe 1,Lorena
+1,12,5,Televisão,7000000,1,0:08:12,GK,Fndn. L1,A7,Equipe 3,João
+1,27,8,Facebook,25000000,4,0:08:12,GK,Pre. L3,C8,Equipe 1,Lucas
+1,30,9,Facebook,19000000,5,0:08:12,BE,Pre. L3,A4,Equipe 1,Lucas
+1,19,9,Facebook,20000000,5,0:08:12,GK,Fndn. L1,A2,Equipe 1,Lorenzo
+1,12,9,Televisão,11000000,5,0:08:12,GK,Pre. L4,B13,Equipe 4,Bernardo
+1,21,10,Televisão,12000000,1,0:08:12,GK,Pre. L2,A7,Equipe 2,Mathias
+1,17,11,WhatsApp,12000000,4,0:08:12,GK,Pre. L4,A7,Equipe 4,Theo
+1,15,12,Website,20000000,2,0:08:12,CNI,Fndn. L5,B12,Equipe 2,Laura
+1,1,12,WhatsApp,12000000,4,0:08:12,GK,KJI. L4,B12,Equipe 3,Sophia
+1,13,1,Televisão,15000000,5,0:08:12,GK,Fndn. L3,B18,Equipe 2,Laura
+1,11,2,Website,38000000,2,0:08:12,BE,KJI. L4,B13,Equipe 1,Lorena
+1,12,5,Televisão,7000000,1,0:08:12,GK,Fndn. L1,A7,Equipe 3,João
+1,27,8,Facebook,25000000,4,0:08:12,GK,Pre. L3,C8,Equipe 1,Lucas
+0,12,3,Google Ad,0,3,0:08:12,,,C8,Equipe 3,Sophia
+0,25,11,Televisão,0,1,0:08:12,,,B18,Equipe 4,Bernardo
+0,12,3,Google Ad,0,3,0:08:12,,,C8,Equipe 3,Sophia
+1,12,8,Televisão,15000000,1,0:08:20,GK,Fndn. L3,A4,Equipe 2,Heitor
+1,30,9,Website,12000000,2,0:08:20,GK,Pre. L4,A1,Equipe 3,Sophia
+1,6,9,Facebook,20000000,2,0:08:20,GK,Fndn. L1,B12,Equipe 1,Lorenzo
+1,21,10,Website,7000000,2,0:08:20,GK,KJI. L4,A1,Equipe 2,Bruno
+1,22,10,Google Ad,15000000,5,0:08:20,GK,Fndn. L1,B18,Equipe 1,Samuel
+1,12,10,Website,15000000,4,0:08:20,GK,Pre. L3,A2,Equipe 2,Laura
+1,23,11,Website,12000000,1,0:08:20,GK,Fndn. L3,B13,Equipe 1,Davi
+1,29,11,WhatsApp,12000000,2,0:08:20,GK,Fndn. L1,B18,Equipe 1,Lorenzo
+1,21,12,Televisão,19000000,2,0:08:20,BE,Pre. L3,A1,Equipe 1,Samuel
+1,24,12,Televisão,15000000,1,0:08:20,GK,Pre. L8,A2,Equipe 2,Heitor
+0,20,9,Televisão,0,1,0:08:20,,,B18,Equipe 2,Laura
+0,8,10,WhatsApp,0,5,0:08:20,,,A7,Equipe 3,Sophia
+0,31,12,Televisão,0,1,0:08:20,,,C8,Equipe 4,Theo
+1,30,8,Website,38000000,2,0:08:40,BE,Pre. L3,A7,Equipe 2,Helena
+1,28,9,Televisão,12000000,2,0:08:40,GK,Fndn. L5,A1,Equipe 4,Bernardo
+1,28,9,WhatsApp,15000000,2,0:08:40,GK,KJI. L4,A1,Equipe 4,Bernardo
+1,30,9,Youtube,15000000,4,0:08:40,GK,Pre. L3,A2,Equipe 2,Heitor
+1,30,9,Facebook,12000000,2,0:08:40,GK,Pre. L3,B12,Equipe 2,Heitor
+1,6,9,Youtube,15000000,4,0:08:40,GK,Fndn. L1,B18,Equipe 2,Heitor
+1,27,10,Televisão,20000000,5,0:08:40,CNI,Pre. L3,C8,Equipe 2,Laura
+1,11,10,Google Ad,7000000,1,0:08:40,GK,KJI. L4,A1,Equipe 3,Sophia
+1,29,10,WhatsApp,12000000,2,0:08:40,GK,Fndn. L3,A1,Equipe 1,Davi
+1,7,10,WhatsApp,12000000,7,0:08:40,GK,KJI. L4,A7,Equipe 3,João
+1,8,10,Televisão,15000000,2,0:08:40,GK,Pre. L8,B12,Equipe 2,Mathias
+1,11,10,Website,20000000,5,0:08:40,GK,Fndn. L1,C8,Equipe 3,Sophia
+1,22,11,Website,19000000,1,0:08:40,BE,Fndn. L5,A4,Equipe 2,Heitor
+1,6,11,Televisão,20000000,1,0:08:40,CNI,Pre. L4,A1,Equipe 1,Samuel
+1,1,11,Facebook,12000000,1,0:08:40,GK,Fndn. L5,A1,Equipe 1,Lorenzo
+1,14,11,WhatsApp,25000000,1,0:08:40,GK,Fndn. L6,A1,Equipe 2,Helena
+1,10,11,Televisão,7000000,2,0:08:40,GK,Pre. L4,B18,Equipe 1,Samuel
+1,13,12,Facebook,19000000,2,0:08:40,BE,KJI. L4,C8,Equipe 1,Davi
+1,16,12,Televisão,20000000,4,0:08:40,GK,Pre. L3,A2,Equipe 2,Laura
+1,17,12,Facebook,21000000,6,0:08:40,GK,Fndn. L5,A2,Equipe 4,Theo
+1,30,8,Website,38000000,2,0:08:40,BE,Pre. L3,A7,Equipe 2,Helena
+0,5,1,Televisão,0,4,0:08:40,,,B18,Equipe 2,Heitor
+0,10,7,WhatsApp,0,3,0:08:40,,,C8,Equipe 4,Theo
+0,12,8,WhatsApp,0,1,0:08:40,,,A1,Equipe 1,Samuel
+0,30,9,WhatsApp,0,2,0:08:40,,,C8,Equipe 1,Davi
+0,30,12,Televisão,0,5,0:08:40,,,A1,Equipe 3,Sophia
+0,30,12,Google Ad,0,3,0:08:40,,,A4,Equipe 4,Bernardo
+0,5,1,Televisão,0,4,0:08:40,,,B18,Equipe 2,Heitor
+0,10,7,WhatsApp,0,3,0:08:40,,,C8,Equipe 4,Theo
+1,26,8,Website,15000000,2,0:09:00,GK,Fndn. L3,A7,Equipe 1,Lucas
+1,27,9,Facebook,15000000,4,0:09:00,GK,Pre. L3,A4,Equipe 2,Helena
+1,30,9,Youtube,15000000,2,0:09:00,GK,KJI. L4,B12,Equipe 3,João
+1,5,10,Facebook,7000000,4,0:09:00,GK,Fndn. L5,A1,Equipe 1,Samuel
+1,28,10,Televisão,20000000,2,0:09:00,GK,Pre. L3,B13,Equipe 2,Laura
+1,7,10,Televisão,12000000,2,0:09:00,GK,KJI. L4,B18,Equipe 1,Lucas
+1,20,11,Televisão,20000000,2,0:09:00,CNI,Fndn. L1,C8,Equipe 2,Helena
+1,15,11,Youtube,12000000,3,0:09:00,GK,Pre. L4,A2,Equipe 1,Samuel
+1,18,11,Televisão,12000000,1,0:09:00,GK,Pre. L3,A4,Equipe 2,Laura
+1,3,11,WhatsApp,20000000,1,0:09:00,GK,Fndn. L1,B12,Equipe 1,Lorenzo
+0,11,3,Televisão,0,1,0:09:00,,,A1,Equipe 2,Laura
+0,30,12,WhatsApp,0,3,0:09:00,,,A1,Equipe 4,Bernardo
+0,27,12,Google Ad,0,1,0:09:00,,,B18,Equipe 3,Alice
+0,11,3,Televisão,0,1,0:09:00,,,A1,Equipe 2,Laura
+1,31,5,Google Ad,12000000,4,0:09:12,GK,Pre. L3,A1,Equipe 2,Heitor
+1,7,9,Televisão,11000000,5,0:09:12,CNI,Fndn. L1,A2,Equipe 2,Laura
+1,21,10,Televisão,20000000,2,0:09:12,GK,Fndn. L3,A1,Equipe 2,Laura
+1,8,10,Televisão,15000000,1,0:09:12,GK,Pre. L4,A4,Equipe 1,Lorenzo
+1,8,10,WhatsApp,12000000,4,0:09:12,GK,Fndn. L1,B13,Equipe 3,Sophia
+1,22,11,Website,7000000,1,0:09:12,GK,Fndn. L5,C8,Equipe 4,Bernardo
+1,25,11,Televisão,15000000,3,0:09:12,GK,KJI. L4,A1,Equipe 1,Davi
+1,7,11,Televisão,25000000,3,0:09:12,GK,Pre. L8,A7,Equipe 1,Lorena
+1,1,12,Website,25000000,3,0:09:12,GK,Fndn. L1,A1,Equipe 3,João
+1,17,12,Televisão,12000000,2,0:09:12,GK,Pre. L3,B12,Equipe 2,Laura
+1,31,5,Google Ad,12000000,4,0:09:12,GK,Pre. L3,A1,Equipe 2,Heitor
+0,12,8,WhatsApp,0,3,0:09:12,,,B18,Equipe 4,Bernardo
+0,17,11,Website,0,1,0:09:12,,,B18,Equipe 3,Sophia
+0,14,12,Website,0,4,0:09:12,,,C8,Equipe 2,Helena
+1,11,1,Facebook,38000000,1,0:09:15,BE,Fndn. L5,C8,Equipe 4,Bernardo
+1,11,2,Televisão,25000000,1,0:09:15,GK,Fndn. L5,C8,Equipe 1,Davi
+1,1,6,Google Ad,12000000,1,0:09:15,GK,Fndn. L5,B12,Equipe 2,Laura
+1,29,8,Website,21000000,5,0:09:15,GK,KJI. L4,A1,Equipe 3,Sophia
+1,30,9,Facebook,12000000,4,0:09:15,GK,KJI. L4,A2,Equipe 1,Samuel
+1,25,10,Televisão,19000000,3,0:09:15,BE,Pre. L8,A1,Equipe 2,Heitor
+1,10,10,Televisão,11000000,5,0:09:15,CNI,Fndn. L5,B18,Equipe 2,Heitor
+1,28,10,Google Ad,7000000,1,0:09:15,GK,Pre. L3,A4,Equipe 1,Samuel
+1,13,11,WhatsApp,20000000,5,0:09:15,GK,Pre. L8,A1,Equipe 2,Helena
+1,3,11,Televisão,15000000,2,0:09:15,GK,Pre. L3,B13,Equipe 3,Sophia
+1,11,1,Facebook,38000000,1,0:09:15,BE,Fndn. L5,C8,Equipe 4,Bernardo
+1,11,2,Televisão,25000000,1,0:09:15,GK,Fndn. L5,C8,Equipe 1,Davi
+1,1,6,Google Ad,12000000,1,0:09:15,GK,Fndn. L5,B12,Equipe 2,Laura
+1,29,8,Website,21000000,5,0:09:15,GK,KJI. L4,A1,Equipe 3,Sophia
+0,13,1,Televisão,0,2,0:09:15,,,B12,Equipe 4,Bernardo
+0,29,9,Website,0,2,0:09:15,,,B12,Equipe 2,Heitor
+0,30,12,Website,0,4,0:09:15,,,A1,Equipe 3,João
+0,13,1,Televisão,0,2,0:09:15,,,B12,Equipe 4,Bernardo
+1,12,1,Facebook,12000000,3,0:09:36,GK,KJI. L4,A1,Equipe 3,Sophia
+1,1,7,Website,25000000,1,0:09:36,GK,Fndn. L5,B12,Equipe 2,Helena
+1,11,9,Google Ad,7000000,2,0:09:36,GK,Pre. L3,C8,Equipe 4,Bernardo
+1,12,10,Televisão,38000000,3,0:09:36,BE,Pre. L3,B18,Equipe 2,Laura
+1,28,10,Google Ad,15000000,1,0:09:36,GK,Pre. L8,A2,Equipe 1,Davi
+1,8,10,Facebook,12000000,4,0:09:36,GK,Fndn. L5,C8,Equipe 2,Helena
+1,11,11,Website,12000000,1,0:09:36,GK,Fndn. L1,B12,Equipe 2,Heitor
+1,22,11,Facebook,20000000,4,0:09:36,GK,KJI. L4,A4,Equipe 1,Davi
+1,12,1,Facebook,12000000,3,0:09:36,GK,KJI. L4,A1,Equipe 3,Sophia
+1,1,7,Website,25000000,1,0:09:36,GK,Fndn. L5,B12,Equipe 2,Helena
+0,27,9,Televisão,0,1,0:09:36,,,A2,Equipe 3,João
+0,3,10,Televisão,0,1,0:09:36,,,A1,Equipe 1,Lorena
+0,11,11,Televisão,0,3,0:09:36,,,A4,Equipe 1,Davi
+0,10,11,Facebook,0,5,0:09:36,,,C8,Equipe 1,Lucas
+1,12,6,Website,15000000,3,0:10:10,GK,Pre. L4,B18,Equipe 3,João
+1,13,8,Televisão,15000000,1,0:10:10,GK,Pre. L2,A2,Equipe 2,Helena
+1,11,8,Google Ad,7000000,3,0:10:10,GK,Pre. L3,A7,Equipe 1,Davi
+1,7,9,Facebook,12000000,4,0:10:10,GK,Fndn. L1,A4,Equipe 1,Lorena
+1,9,9,Website,15000000,4,0:10:10,GK,KJI. L4,A2,Equipe 3,Sophia
+1,24,9,Website,12000000,2,0:10:10,GK,Fndn. L1,C8,Equipe 2,Laura
+1,28,10,WhatsApp,20000000,1,0:10:10,GK,KJI. L4,A1,Equipe 1,Lorena
+1,25,10,Website,20000000,5,0:10:10,GK,Fndn. L3,B12,Equipe 2,Helena
+1,29,10,Website,12000000,2,0:10:10,GK,Pre. L2,C8,Equipe 2,Heitor
+1,25,12,Televisão,20000000,1,0:10:10,CNI,Fndn. L6,B12,Equipe 4,Bernardo
+1,12,6,Website,15000000,3,0:10:10,GK,Pre. L4,B18,Equipe 3,João
+1,13,8,Televisão,15000000,1,0:10:10,GK,Pre. L2,A2,Equipe 2,Helena
+0,21,9,Televisão,0,2,0:10:10,,,A2,Equipe 1,Samuel
+0,25,11,Website,0,2,0:10:10,,,B13,Equipe 2,Laura
+0,11,11,Facebook,0,2,0:10:10,,,B18,Equipe 1,Davi
+1,1,4,Website,25000000,1,0:11:20,GK,KJI. L4,B12,Equipe 4,Theo
+1,11,4,Google Ad,15000000,2,0:11:20,GK,Fndn. L3,B18,Equipe 3,João
+1,4,5,Website,20000000,1,0:11:20,CNI,Pre. L3,A1,Equipe 2,Mathias
+1,30,9,Website,10000000,1,0:11:20,GK,Pre. L3,A7,Equipe 1,Arthur
+1,14,10,Televisão,19000000,2,0:11:20,BE,Fndn. L5,B18,Equipe 4,Theo
+1,19,10,Website,7000000,4,0:11:20,GK,Pre. L8,A2,Equipe 2,Mathias
+1,3,10,Televisão,12000000,2,0:11:20,GK,Fndn. L1,C8,Equipe 2,Heitor
+1,3,11,Facebook,38000000,2,0:11:20,BE,Pre. L4,A2,Equipe 2,Helena
+1,12,11,Google Ad,15000000,1,0:11:20,GK,Fndn. L5,C8,Equipe 1,Lorenzo
+1,22,11,Televisão,12000000,3,0:11:20,GK,KJI. L4,A4,Equipe 1,Lucas
+1,1,4,Website,25000000,1,0:11:20,GK,KJI. L4,B12,Equipe 4,Theo
+1,11,4,Google Ad,15000000,2,0:11:20,GK,Fndn. L3,B18,Equipe 3,João
+1,4,5,Website,20000000,1,0:11:20,CNI,Pre. L3,A1,Equipe 2,Mathias
+0,5,10,Televisão,0,3,0:11:20,,,A1,Equipe 2,Helena
+0,10,12,Televisão,0,2,0:11:20,,,A4,Equipe 4,Theo
+0,10,12,Google Ad,0,2,0:11:20,,,A7,Equipe 1,Lorenzo
+1,17,1,Website,38000000,4,0:12:45,BE,Fndn. L5,A2,Equipe 2,Helena
+1,2,5,Televisão,25000000,1,0:12:45,GK,KJI. L4,C8,Equipe 1,Arthur
+1,5,8,Televisão,20000000,3,0:12:45,CNI,Pre. L2,A2,Equipe 1,Samuel
+1,11,8,Website,7000000,6,0:12:45,GK,Fndn. L5,B13,Equipe 2,Mathias
+1,28,9,Facebook,11000000,2,0:12:45,GK,Fndn. L5,B13,Equipe 1,Arthur
+1,16,9,Website,20000000,5,0:12:45,GK,KJI. L4,A4,Equipe 3,João
+1,30,9,Google Ad,10000000,1,0:12:45,GK,KJI. L4,B18,Equipe 4,Bernardo
+1,8,10,Website,19000000,4,0:12:45,BE,KJI. L4,B12,Equipe 4,Bernardo
+1,17,1,Website,38000000,4,0:12:45,BE,Fndn. L5,A2,Equipe 2,Helena
+1,2,5,Televisão,25000000,1,0:12:45,GK,KJI. L4,C8,Equipe 1,Arthur
+1,5,8,Televisão,20000000,3,0:12:45,CNI,Pre. L2,A2,Equipe 1,Samuel
+0,22,9,WhatsApp,0,3,0:12:45,,,A1,Equipe 2,Helena
+0,25,10,WhatsApp,0,5,0:12:45,,,B12,Equipe 1,Arthur
+0,16,11,Televisão,0,3,0:12:45,,,A2,Equipe 4,Bernardo
+0,30,11,Facebook,0,5,0:12:45,,,B18,Equipe 2,Laura
+0,1,12,Website,0,2,0:12:45,,,B13,Equipe 2,Heitor
+1,13,2,Facebook,7000000,6,0:12:55,GK,Pre. L2,A2,Equipe 4,Theo
+1,10,4,Google Ad,15000000,1,0:12:55,GK,Pre. L3,A1,Equipe 1,Lorena
+1,9,7,Televisão,11000000,1,0:12:55,CNI,KJI. L4,A2,Equipe 1,Lucas
+1,21,9,Televisão,38000000,3,0:12:55,BE,Fndn. L1,B13,Equipe 2,Laura
+1,30,9,WhatsApp,15000000,5,0:12:55,GK,KJI. L4,C8,Equipe 2,Bruno
+1,13,10,Televisão,38000000,1,0:12:55,BE,Fndn. L6,C8,Equipe 4,Bernardo
+1,2,10,Televisão,10000000,5,0:12:55,GK,KJI. L4,A1,Equipe 1,Lorenzo
+1,4,10,Website,20000000,2,0:12:55,GK,Fndn. L5,A1,Equipe 3,Sophia
+1,6,10,WhatsApp,12000000,2,0:12:55,GK,Pre. L3,A1,Equipe 2,Heitor
+1,23,10,Youtube,15000000,1,0:12:55,GK,Fndn. L3,C8,Equipe 1,Samuel
+1,8,10,WhatsApp,12000000,2,0:12:55,GK,Fndn. L1,A4,Equipe 1,Arthur
+1,1,10,Website,12000000,2,0:12:55,GK,KJI. L4,B12,Equipe 2,Heitor
+1,20,10,WhatsApp,21000000,2,0:12:55,GK,Pre. L3,B12,Equipe 1,Lorenzo
+1,11,11,Facebook,12000000,1,0:12:55,GK,Fndn. L5,A7,Equipe 1,Arthur
+1,3,11,Youtube,25000000,1,0:12:55,GK,Pre. L8,B12,Equipe 2,Laura
+1,30,12,WhatsApp,19000000,2,0:12:55,BE,Fndn. L5,B18,Equipe 2,Bruno
+1,28,12,WhatsApp,20000000,1,0:12:55,CNI,Fndn. L5,A2,Equipe 4,Theo
+1,1,12,Televisão,25000000,3,0:12:55,GK,Pre. L8,A1,Equipe 4,Theo
+1,30,12,Website,7000000,1,0:12:55,GK,Pre. L3,A1,Equipe 1,Lorena
+1,13,2,Facebook,7000000,6,0:12:55,GK,Pre. L2,A2,Equipe 4,Theo
+1,10,4,Google Ad,15000000,1,0:12:55,GK,Pre. L3,A1,Equipe 1,Lorena
+1,9,7,Televisão,11000000,1,0:12:55,CNI,KJI. L4,A2,Equipe 1,Lucas
+0,11,2,Facebook,0,2,0:12:55,,,B18,Equipe 2,Laura
+0,12,3,Televisão,0,2,0:12:55,,,B18,Equipe 3,Sophia
+0,30,9,Facebook,0,2,0:12:55,,,C8,Equipe 1,Arthur
+0,14,10,Youtube,0,2,0:12:55,,,A7,Equipe 3,Sophia
+0,18,11,Facebook,0,2,0:12:55,,,A1,Equipe 4,Theo
+0,24,11,WhatsApp,0,2,0:12:55,,,A7,Equipe 2,Heitor
+0,9,12,Televisão,0,1,0:12:55,,,A4,Equipe 2,Laura
+0,11,2,Facebook,0,2,0:12:55,,,B18,Equipe 2,Laura
+0,12,3,Televisão,0,2,0:12:55,,,B18,Equipe 3,Sophia
